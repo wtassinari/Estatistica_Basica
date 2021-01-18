@@ -75,22 +75,22 @@ $\frac{P1+P2+2.P3}{4} \geq 5 \longrightarrow Aprovado$
 # Cronograma do curso:
 
 
-|     Aula     | Descrição | Data  |      |      Aula       | Descrição | Data  |
-| :----------: | :-------: | :---: | ---- | :-------------: | --------- | :---: |
-| Apresentação |           | 02/02 |      |        8        |           | 23/03 |
-|      1       |           | 04/02 |      |        8        |           | 25/03 |
-|      1       |           | 09/02 |      |        9        |           | 30/03 |
-|    2 e 3     |           | 11/02 |      |        9        |           | 01/04 |
-|    2 e 3     |           | 18/02 |      |       10        |           | 06/04 |
-|      4       |           | 23/02 |      |       10        |           | 08/04 |
-|      4       |           | 25/02 |      |       11        |           | 13/04 |
-|    5 e 6     |           | 02/03 |      |       11        |           | 15/04 |
-|    5 e 6     |           | 04/03 |      |       12        |           | 20/04 |
-|      7       |           | 09/03 |      |       12        |           | 22/04 |
-|      7       |           | 11/03 |      |     Revisão     |           | 27/04 |
-|   Revisão    |           | 16/03 |      |      $P_2$      |           | 29/04 |
-|    $P_1$     |           | 18/03 |      | Segunda Chamada |           | 04/05 |
-
+| Aulas |             Descrição             | Data  |      |      Aulas      |                    Descrição                     | Data  |
+| :---: | :-------------------------------: | :---: | ---- | :-------------: | :----------------------------------------------: | :---: |
+|   -   |    Apresentação da  Disciplina    | 02/02 |      |        8        |            Introdução à Probabilidade            | 23/03 |
+|   1   |         Conceitos Básicos         | 04/02 |      |        8        |            Introdução à Probabilidade            | 25/03 |
+|   1   |         Conceitos Básicos         | 09/02 |      |        9        |               Variáveis Aleatórias               | 30/03 |
+| 2 e 3 |        Tabelas e Gráficos         | 11/02 |      |        9        |               Variáveis Aleatórias               | 01/04 |
+| 2 e 3 |        Tabelas e Gráficos         | 18/02 |      |       10        | Distribuições de Probabilidade para VA discretas | 06/04 |
+|   4   |        Medidas de Posição         | 23/02 |      |       10        | Distribuições de Probabilidade para VA discretas | 08/04 |
+|   4   |        Medidas de Posição         | 25/02 |      |       11        | Distribuições de Probabilidade para VA contínuas | 13/04 |
+| 5 e 6 | Medidas de Dispersão e Assimetria | 02/03 |      |       11        | Distribuições de Probabilidade para VA contínuas | 15/04 |
+| 5 e 6 | Medidas de Dispersão e Assimetria | 04/03 |      |       12        |       Introdução à Inferência Estatística        | 20/04 |
+|   7   |       Análise Bidimensional       | 09/03 |      |       12        |       Introdução à Inferência Estatística        | 22/04 |
+|   7   |       Análise Bidimensional       | 11/03 |      |        -        |                     Revisão                      | 27/04 |
+|   -   |              Revisão              | 16/03 |      |      P2      |                        -                         | 29/04 |
+| P1 |                 -                 | 18/03 |      | Segunda Chamada |                        -                         | 04/05 |
+| - |                 -                 | - |      | Optativa |                        -                         | 06/05 |
 
 ### **Aula 1:** Apresentação da disciplina
 
