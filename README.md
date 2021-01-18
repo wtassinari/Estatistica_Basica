@@ -77,11 +77,11 @@ $\frac{P1+P2+2.P3}{4} \geq 5 \longrightarrow Aprovado$
 
 | Aulas |             Descrição             | Data  |      |      Aulas      |                    Descrição                     | Data  |
 | :---: | :-------------------------------: | :---: | ---- | :-------------: | :----------------------------------------------: | :---: |
-|   -   |    Apresentação da  Disciplina    | 02/02 |      |        8        |            Introdução à Probabilidade            | 23/03 |
-|   1   |         Conceitos Básicos         | 04/02 |      |        8        |            Introdução à Probabilidade            | 25/03 |
-|   1   |         Conceitos Básicos         | 09/02 |      |        9        |               Variáveis Aleatórias               | 30/03 |
-| 2 e 3 |        Tabelas e Gráficos         | 11/02 |      |        9        |               Variáveis Aleatórias               | 01/04 |
-| 2 e 3 |        Tabelas e Gráficos         | 18/02 |      |       10        | Distribuições de Probabilidade para VA discretas | 06/04 |
+|   -   |    Apresentação da  Disciplina    | 02/02 | ---- |        8        |            Introdução à Probabilidade            | 23/03 |
+|   1   |         Conceitos Básicos         | 04/02 |   :   |        8        |            Introdução à Probabilidade            | 25/03 |
+|   1   |         Conceitos Básicos         | 09/02 |    :  |        9        |               Variáveis Aleatórias               | 30/03 |
+| 2 e 3 |        Tabelas e Gráficos         | 11/02 |    :  |        9        |               Variáveis Aleatórias               | 01/04 |
+| 2 e 3 |        Tabelas e Gráficos         | 18/02 |     : |       10        | Distribuições de Probabilidade para VA discretas | 06/04 |
 |   4   |        Medidas de Posição         | 23/02 |      |       10        | Distribuições de Probabilidade para VA discretas | 08/04 |
 |   4   |        Medidas de Posição         | 25/02 |      |       11        | Distribuições de Probabilidade para VA contínuas | 13/04 |
 | 5 e 6 | Medidas de Dispersão e Assimetria | 02/03 |      |       11        | Distribuições de Probabilidade para VA contínuas | 15/04 |
