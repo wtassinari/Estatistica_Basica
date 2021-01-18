@@ -38,7 +38,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ## AVALIAÇÃO:
 
-- P1 – 02/02/2021 
+- P1 – 18/03/2021 
 
 - P2 – 29/04/2021
 
@@ -46,10 +46,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 - Optativa – 06/05/2021
 
-
-$\frac{P1+P2+2.P3}{4} \geq 5 \longrightarrow Aprovado$
-
-- OBS: A nota da prova optativa substuirá a menor nota e a média será recalculada utilizando a mesma fórmula.
+- OBS: A nota da prova optativa substuirá a menor nota e a média será recalculada.
 
 
 ## Bibliografias
