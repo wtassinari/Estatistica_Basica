@@ -38,9 +38,18 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ## AVALIAÇÃO:
 
-Pelo menos duas provas escritas deverão ser usadas na avaliação.
+- P1 – 02/02/2021 
+
+- P2 – 29/04/2021
+
+- Segunda Chamada – 04/05/2021
+
+- Optativa – 06/05/2021
 
 
+$\frac{P1+P2+2.P3}{4} \geq 5 \longrightarrow Aprovado$
+
+- OBS: A nota da prova optativa substuirá a menor nota e a média será recalculada utilizando a mesma fórmula.
 
 
 ## Bibliografias
