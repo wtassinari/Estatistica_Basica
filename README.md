@@ -75,18 +75,21 @@ $\frac{P1+P2+2.P3}{4} \geq 5 \longrightarrow Aprovado$
 # Cronograma do curso:
 
 
-| Semana |                Descrição                |    Data    |
-| :--: | :-------------------------------------: | :--------: |
-|  1   |       Apresentação da disciplina        | 02/02/2021 |
-|  2   | Análise Exploratória de dados - Parte 1 | 14/01/2020 |
-|  3   | Análise Exploratória de dados - Parte 2 | 19/01/2020 |
-|  4   |  Introdução à probabilidade - Parte 1   | 21/01/2020 |
-|  5   |  Introdução à probabilidade - Parte 2   | 26/01/2020 |
-|  6   |    Inferência Estatística - Parte 1     | 28/01/2020 |
-|  7   |    Inferência Estatístico - Parte 2     | 02/02/2020 |
-|  8   |       Estatística não-paramétrica       | 04/02/2020 |
-|  9   |               Seminários - Primeiro dia                | 09/02/2020 |
-|  10  |               Seminários - Segundo dia              | 11/02/2020 |
+|     Aula     | Descrição | Data  |      |      Aula       | Descrição | Data  |
+| :----------: | :-------: | :---: | ---- | :-------------: | --------- | :---: |
+| Apresentação |           | 02/02 |      |        8        |           | 23/03 |
+|      1       |           | 04/02 |      |        8        |           | 25/03 |
+|      1       |           | 09/02 |      |        9        |           | 30/03 |
+|    2 e 3     |           | 11/02 |      |        9        |           | 01/04 |
+|    2 e 3     |           | 18/02 |      |       10        |           | 06/04 |
+|      4       |           | 23/02 |      |       10        |           | 08/04 |
+|      4       |           | 25/02 |      |       11        |           | 13/04 |
+|    5 e 6     |           | 02/03 |      |       11        |           | 15/04 |
+|    5 e 6     |           | 04/03 |      |       12        |           | 20/04 |
+|      7       |           | 09/03 |      |       12        |           | 22/04 |
+|      7       |           | 11/03 |      |     Revisão     |           | 27/04 |
+|   Revisão    |           | 16/03 |      |      $P_2$      |           | 29/04 |
+|    $P_1$     |           | 18/03 |      | Segunda Chamada |           | 04/05 |
 
 
 ### **Aula 1:** Apresentação da disciplina
