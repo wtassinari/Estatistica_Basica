@@ -8,42 +8,67 @@
 Repositório das disciplinas de Estatística Básica e Introdução à Bioestatística - 2020-1 (DEMAT/UFRRJ)
 
 ## OBJETIVO DAS DISCIPLINAS: 
-Introduzir os conceitos básicos de estatística dando maior ênfase às aplicações nas diversas ciências.
 
-## AVALIAÇÃO:
-Pelo menos duas provas escritas deverão ser usadas na avaliação.
-
-## EMENTA: 
-Organização, resumo e apresentação de dados estatísticos. Noções de probabilidade. Variáveis aleatórias discretas e contínuas, algumas distribuições de probabilidades. Noções de amostragem. Distribuições amostrais. Estimação. 
+- Introduzir os conceitos básicos de estatística dando maior ênfase às aplicações nas diversas ciências.
 
 - O curso será composto de atividade **síncronas**, são atividades baseadas em encontros remotos professor-alunos on line, e  das atividades **assíncronas**, são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e trabalhos em grupo. As aulas síncronas serão feitas via plataforma Google Meet todas à terças e quintas das 9h às 10:30h, durante o período do curso. O link para o acesso as aulas estará disponível ni sistema SIGAA - UFRRJ no tópico referente a data da aula.
+
+### PROGRAMA:
+
+- Introdução à Estatística
+
+- Apresentação dos dados em Tabelas
+
+- Apresentação dos dados em Gráficos
+
+- Medidas de Tendência Central
+
+- Medidas de Dispersão
+
+- Associação entre duas Variáveis
+
+- Introdução à Probabilidade
+
+- Variáveis Aleatórias Discretas e Contínuas
+
+- Introduão à Inferência Estatística
+
+- Intervalos de Confiança
+
+
+## AVALIAÇÃO:
+
+Pelo menos duas provas escritas deverão ser usadas na avaliação.
+
+
 
 
 ## Bibliografias
 
 ### Bibliografia Básica
 
-- [Vu, J; Harrington, D. Introductory Statistics for the Life and Biomedical Sciences, 1ª edição. 2020.](https://leanpub.com/biostat)
 
-- [Diez, DM; Barr, C D; Çetinkaya-Rundel M. OpenIntro Statistics, 3ª edição. 2015.](https://leanpub.com/openintro-statistics)
+-  Wilton O. Bussab; Pedro A. Morettin. **Estatística Básica**. Editora Saraiva
 
+-  Sonia Vieira. **Introdução à Bioestatística**. Editora Elsevier
+
+-  Diógenes e Adriana Souza. **Apostila de Estatística Básica** (Imprensa)
 
 
 ### Bibliografia Sugerida
 
-- Vieira, Sônia. Introdução à bioestatística. Elsevier Brasil, 1997.
+- [Vu, J; Harrington, D. **Introductory Statistics for the Life and Biomedical Sciences**, 1ª edição. 2020.](https://leanpub.com/biostat)
 
-- Morettin, Pedro Alberto; Bussab, Wilton. Estatística básica. Saraiva Educação SA, 2017.
+- [Diez, DM; Barr, C D; Çetinkaya-Rundel M. **OpenIntro Statistics**, 3ª edição. 2015.](https://leanpub.com/openintro-statistics)
 
-- Petrie, Aviva, and Paul Watson. Statistics for veterinary and animal science. John Wiley & Sons, 2013.
 
 
 # Cronograma do curso:
 
 
-| Aula |                Descrição                |    Data    |
+| Semana |                Descrição                |    Data    |
 | :--: | :-------------------------------------: | :--------: |
-|  1   |       Apresentação da disciplina        | 12/01/2020 |
+|  1   |       Apresentação da disciplina        | 02/02/2021 |
 |  2   | Análise Exploratória de dados - Parte 1 | 14/01/2020 |
 |  3   | Análise Exploratória de dados - Parte 2 | 19/01/2020 |
 |  4   |  Introdução à probabilidade - Parte 1   | 21/01/2020 |
