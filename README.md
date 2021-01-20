@@ -72,22 +72,23 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 # Cronograma do curso:
 
 
-| Aulas |             Descrição             | Data  |      |      Aulas      |                    Descrição                     | Data  |
-| :---: | :-------------------------------: | :---: | ---- | :-------------: | :----------------------------------------------: | :---: |
-|   -   |    Apresentação da  Disciplina    | 02/02 |      |        8        |            Introdução à Probabilidade            | 23/03 |
-|   1   |         Conceitos Básicos         | 04/02 |      |        8        |            Introdução à Probabilidade            | 25/03 |
-|   1   |         Conceitos Básicos         | 09/02 |      |        9        |               Variáveis Aleatórias               | 30/03 |
-| 2 e 3 |        Tabelas e Gráficos         | 11/02 |      |        9        |               Variáveis Aleatórias               | 01/04 |
-| 2 e 3 |        Tabelas e Gráficos         | 18/02 |      |       10        | Distribuições de Probabilidade para VA discretas | 06/04 |
-|   4   |        Medidas de Posição         | 23/02 |      |       10        | Distribuições de Probabilidade para VA discretas | 08/04 |
-|   4   |        Medidas de Posição         | 25/02 |      |       11        | Distribuições de Probabilidade para VA contínuas | 13/04 |
-| 5 e 6 | Medidas de Dispersão e Assimetria | 02/03 |      |       11        | Distribuições de Probabilidade para VA contínuas | 15/04 |
-| 5 e 6 | Medidas de Dispersão e Assimetria | 04/03 |      |       12        |       Introdução à Inferência Estatística        | 20/04 |
-|   7   |       Análise Bidimensional       | 09/03 |      |       12        |       Introdução à Inferência Estatística        | 22/04 |
-|   7   |       Análise Bidimensional       | 11/03 |      |        -        |                     Revisão                      | 27/04 |
-|   -   |              Revisão              | 16/03 |      |      P2      |                        -                         | 29/04 |
-| P1 |                 -                 | 18/03 |      | Segunda Chamada |                        -                         | 04/05 |
-| - |                 -                 | - |      | Optativa |                        -                         | 06/05 |
+|   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
+| :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
+| **02/02** |    Apresentação da  Disciplina    |   -   |      | **23/03** |            Introdução à Probabilidade            |   8   |
+| **04/02** |         Conceitos Básicos         |   1   |      | **25/03** |            Introdução à Probabilidade            |   8   |
+| **09/02** |         Conceitos Básicos         |   1   |      | **30/03** |               Variáveis Aleatórias               |   9   |
+| **11/02** |        Tabelas e Gráficos         | 2 e 3 |      | **01/04** |               Variáveis Aleatórias               |   9   |
+| **18/02** |        Tabelas e Gráficos         | 2 e 3 |      | **06/04** | Distribuições de Probabilidade para VA discretas |  10   |
+| **23/02** |        Medidas de Posição         |   4   |      | **08/04** | Distribuições de Probabilidade para VA discretas |  10   |
+| **25/02** |        Medidas de Posição         |   4   |      | **13/04** | Distribuições de Probabilidade para VA contínuas |  11   |
+| **02/03** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **15/04** | Distribuições de Probabilidade para VA contínuas |  11   |
+| **04/03** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **20/04** |       Introdução à Inferência Estatística        |  12   |
+| **09/03** |       Análise Bidimensional       |   7   |      | **22/04** |       Introdução à Inferência Estatística        |  12   |
+| **11/03** |       Análise Bidimensional       |   7   |      | **27/04** |                     Revisão                      |       |
+| **16/03** |              Revisão              |       |      | **29/04** |                        P2                        |       |
+| **18/03** |                P1                 |       |      | **04/05** |                 Segunda chamada                  |       |
+|     -     |                 -                 |       |      | **06/05** |                     Optativa                     |       |
+
 
 ### **Aula 1:** Apresentação da disciplina
 
