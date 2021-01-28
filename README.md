@@ -60,7 +60,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ### Bibliografia Sugerida
 
-- -  [Diógenes Ferreira Filho. **Apostila de Estatística Básica**](https://www.dropbox.com/s/6vnexi22twf92ox/Apostila_Estatistica_Basica_%26_Int_Bioestatistica.pdf?dl=0)
+- [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://www.dropbox.com/s/6vnexi22twf92ox/Apostila_Estatistica_Basica_%26_Int_Bioestatistica.pdf?dl=0)
 
 - [Vu, J; Harrington, D. **Introductory Statistics for the Life and Biomedical Sciences**, 1ª edição. 2020.](https://leanpub.com/biostat)
 
