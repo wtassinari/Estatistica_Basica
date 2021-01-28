@@ -11,7 +11,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 - Introduzir os conceitos básicos de estatística dando maior ênfase às aplicações nas diversas ciências.
 
-- O curso será composto de atividades **síncronas** (são atividades baseadas em encontros remotos professor-alunos de forma on line) e  de atividades **assíncronas** (são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e etc.). As aulas síncronas serão feitas via plataforma Google Meet durante o horário original da disciplina. Os dias das aulas síncronas estão indicadas na tabela abaixo contendo o cronograma do curso. durante o período do curso. O link para o acesso as aulas estará disponível no sistema SIGAA/UFRRJ no tópico do primeiro dia de aula.
+- O curso será composto de atividades **síncronas** (são atividades baseadas em encontros remotos professor-alunos de forma on line) e  de atividades **assíncronas** (são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e etc). As aulas síncronas serão feitas via plataforma Google Meet durante o horário original da disciplina. Os dias das aulas síncronas estão indicadas na tabela abaixo contendo o cronograma do curso. durante o período do curso. O link para o acesso as aulas estará disponível no sistema SIGAA/UFRRJ no tópico do primeiro dia de aula.
 
 ### PROGRAMA:
 
