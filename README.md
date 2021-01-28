@@ -33,7 +33,6 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 - Introduão à Inferência Estatística
 
-- Intervalos de Confiança
 
 
 ## AVALIAÇÃO:
