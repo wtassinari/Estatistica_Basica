@@ -88,7 +88,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | **18/03** |                P1                 |       |      | **04/05** |                 Segunda chamada                  |       |
 |     -     |                 -                 |       |      | **06/05** |                     Optativa                     |       |
 
-* Aulas síncronas 
+$\ast$ Aulas síncronas 
 
 ### Apresentação da disciplina
 
