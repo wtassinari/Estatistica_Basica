@@ -2,7 +2,7 @@
 
 **Prof. Wagner Tassinari (DEMAT/UFRRJ)**
 
-*wtassinari@gmail.com*
+[*wtassinari@gmail.com*](wtassinari@gmail.com)
 
 
 Repositório das disciplinas de Estatística Básica e Introdução à Bioestatística - 2020-1 (DEMAT/UFRRJ)
