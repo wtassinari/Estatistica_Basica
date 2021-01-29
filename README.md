@@ -78,11 +78,13 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ## Instalando o pacote estatístico R + sua interface gráfica RStudio
 
-- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
-
 - [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
 
-- [Vídeo para instalação e carregamento de pacotes no R](https://www.youtube.com/watch?v=_7KxO0QIwP4)
+- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
+
+- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
+
+
 
 
 # Cronograma do curso:
