@@ -13,6 +13,12 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 - O curso será composto de atividades **síncronas** (são atividades baseadas em encontros remotos professor-alunos de forma on line) e  de atividades **assíncronas** (são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e etc). As aulas síncronas serão feitas via plataforma Google Meet durante o horário original da disciplina. Os dias das aulas síncronas estão indicadas na tabela abaixo contendo o cronograma do curso. durante o período do curso. O link para o acesso as aulas estará disponível no sistema SIGAA/UFRRJ no tópico do primeiro dia de aula.
 
+- Neste curso será utilizado o **pacote estatístico R** utilizando a interface gráfica **RStudio** e o **R Commander**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN (https://cran.r-project.org/), é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
+
+- Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** (https://rstudio.com/products/rstudio/), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
+
+## IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
+
 ### PROGRAMA:
 
 - Introdução à Estatística
@@ -45,7 +51,11 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 - Optativa – 06/05/2021
 
-- OBS: A nota da prova optativa substuirá a menor nota e a média será recalculada.
+- A média final será composta pela nota da primeira e da segunda avaliação.
+
+- OBS1: Será aplicada apenas uma prova de segunda chamada.
+
+- OBS2: A nota da prova optativa substituirá a menor nota entre as avaliações P1 e P2, sendo a média recalculada.
 
 
 ## Bibliografias
