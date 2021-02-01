@@ -20,7 +20,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 ## IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
 
 
-- *Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as atividades de ensino nesse período em decorrência da pandemia de COVID-19:*
+*Segundo a deliberação No 289 / 2020 - SAOC (12.28.01.03), que regulamenta as atividades de ensino nesse período em decorrência da pandemia de COVID-19:*
 
 *Art. 30. Para fins de Ensino Remoto, o direito de imagem é protegido em relação à transmissão pública, gravação e compartilhamento das atividades...*
 
