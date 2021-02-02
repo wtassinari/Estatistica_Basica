@@ -17,7 +17,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 - Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** (https://rstudio.com/products/rstudio/), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
 
-- Versão Mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
+- Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
 
 ## IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
 
