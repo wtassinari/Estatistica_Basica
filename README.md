@@ -125,6 +125,22 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ### **Aula 1:** Conceitos Básicos
 
+- Nessa aula serão apresentados alguns conceitos fundamentais para se trabalhar com as principais ferramentas da análise estatística, são eles: introdução aos somatórios, cálculo do fatorial e análise combinatória. 
+
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos. 
+
+
+| Atividades  |       Tipo de Atividade                                             |
+| :---------: | ------------------------------------------------------------ |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 1  |  [link](https://www.dropbox.com/s/0s92r4x3ogjvsm5/EstBasica_aula1_video1_3.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://www.dropbox.com/s/xkmaoybeyimm5gd/EstBasica_aula1_video2_3.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://www.dropbox.com/s/jce7ywosl4qbc9g/EstBasica_aula1_video3_3.mp4?dl=0)   |
+| Assíncrona | Slides sobre a Aula 1 | [link](https://www.dropbox.com/s/qt7r0td6r2m7wwx/Aula1.pdf?dl=0)   |
+| Síncrona | Exercícios sobre a Aula 1 |  [link](https://www.dropbox.com/s/swdh5q4p0rs9ckh/Aula1_exercicios.pdf?dl=0)  |
+
+
 ### **Aulas 2 e 3:** Apresentação dos dados em tabelas e gráficos
 
 ### **Aula 4:** Medidas de posição (ou tendência central)
