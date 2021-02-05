@@ -138,7 +138,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://www.dropbox.com/s/xkmaoybeyimm5gd/EstBasica_aula1_video2_3.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://www.dropbox.com/s/jce7ywosl4qbc9g/EstBasica_aula1_video3_3.mp4?dl=0)   |
 | Assíncrona | Slides sobre a Aula 1 | [link](https://www.dropbox.com/s/qt7r0td6r2m7wwx/Aula1.pdf?dl=0)   |
-| Síncrona | Exercícios sobre a Aula 1 |  [link](https://www.dropbox.com/s/swdh5q4p0rs9ckh/Aula1_exercicios.pdf?dl=0)  |
+| Síncrona | Lista de exercícios sobre a Aula 1 |  [link](https://www.dropbox.com/s/9puwctyvzsh5plf/lista_estatisticabasica1.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito da Aula 1 |  [link](https://www.dropbox.com/s/swdh5q4p0rs9ckh/Aula1_exercicios.pdf?dl=0)  |
 
 
 ### **Aulas 2 e 3:** Apresentação dos dados em tabelas e gráficos
