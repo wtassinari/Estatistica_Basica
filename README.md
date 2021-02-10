@@ -156,10 +156,12 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 2 - Vídeo 1  |  [link](https://www.dropbox.com/s/0pxnr5bgl75u5vs/EstBasica_aula2_video1_3.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 2 - Vídeo 2 |  [link](https://www.dropbox.com/s/bayf2vrsmif5ry1/EstBasica_aula2_video2_3.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 2 - Vídeo 3 | [link](https://www.dropbox.com/s/1eoqskv0yy5d1ar/EstBasica_aula2_video3_3.mp4?dl=0)   |
+| Assíncrona | Slides sobre a Aula 2 | [link](https://www.dropbox.com/s/s6b2n3ys8jinltq/Aula2.pdf?dl=0)   |
 |  -          | **Apresentção dos dados em gráficos** |    |
 | Assíncrona | Videoaula sobre a Aula 3 - Vídeo 1  |  [link](https://www.dropbox.com/s/qdz8ozj59hy1n67/EstBasica_aula3_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 3 - Vídeo 2 |  [link](https://www.dropbox.com/s/3f91itwo4lv8rzc/EstBasica_aula3_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 3 | [link](https://www.dropbox.com/s/2dhen3pbzb4v224/Aula3.pdf?dl=0)   |
+|  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://www.dropbox.com/s/q8txvngwsuzbmxg/lista_estatisticabasica2e3.pdf?dl=0)  |
 
 
