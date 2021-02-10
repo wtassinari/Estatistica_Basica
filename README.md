@@ -144,6 +144,13 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ### **Aulas 2 e 3:** Apresentação dos dados em tabelas e gráficos
 
+- Nessas aulas, serão apresentados técnicas de como se apresenta os dados organizados em tabelas e em gráficos.
+
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
+
+
 ### **Aula 4:** Medidas de posição (ou tendência central)
 
 ### **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade) e assimetria
