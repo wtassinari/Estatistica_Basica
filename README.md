@@ -166,7 +166,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 
 
-### **Aula 4:** Medidas de posição (ou tendência central)
+### **Aula 4:** Medidas de posição (ou tendência central) e medidas separatrizes
 
 ### **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade) e assimetria
 
