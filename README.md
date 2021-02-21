@@ -166,9 +166,23 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://www.dropbox.com/s/v4zzbso5rlvye2i/Aula2e3_sincrona_feita.pdf?dl=0)  |
 
 
+### **Aula 4:** Medidas de posição e medidas separatrizes
 
+- Para esta aula serão mostrados algumas medidas de posição (ou tendência central) + algumas medidas separatrízes. Além de apresentar como e quando aplicar cada  uma dessas medidas, é mostrado suas vantangens e desvantagens.
 
-### **Aula 4:** Medidas de posição (ou tendência central) e medidas separatrizes
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
+
+| Atividades  |       Tipo de Atividade                                             |
+| :---------: | ------------------------------------------------------------ |
+| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 1  |  [link](https://www.dropbox.com/s/2s43ahpnth1v714/EstBasica_aula4_video1_4.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 2 |  [link](https://www.dropbox.com/s/pkiabj03tvoku7a/EstBasica_aula4_video2_4.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 3 | [link](https://www.dropbox.com/s/f0o9z4n8sfze3vx/EstBasica_aula4_video3_4.mp4?dl=0)   |
+| Assíncrona | Videoaula sobre a Aula 4 - Vídeo 4 | [link](https://www.dropbox.com/s/g7k8sij0w4vcfyp/EstBasica_aula4_video4_4.mp4?dl=0)   |
+| Assíncrona | Slides sobre a Aula 4 | [link](https://www.dropbox.com/s/qkam4a9ws77sry8/Aula4.pdf?dl=0)   |
+| Assíncrona | Lista de exercícios sobre a Aula 4 | [link](https://www.dropbox.com/s/frl3y22jghvgds7/lista_estatisticabasica4.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito da Aula 4 |  [link]()  |
 
 ### **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade) e assimetria
 
