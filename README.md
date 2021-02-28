@@ -184,7 +184,30 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Lista de exercícios sobre a Aula 4 | [link](https://www.dropbox.com/s/frl3y22jghvgds7/lista_estatisticabasica4.pdf?dl=0)  |
 | Síncrona | Atividades síncronas a respeito da Aula 4 | [link](https://www.dropbox.com/s/mx2gysnu5euq31w/Aula4_sincrona_feita2.pdf?dl=0)  |
 
-### **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade) e assimetria
+### **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade), assimetria e curtose
+
+- Nessas aulas, serão apresentados as principais medidas de variabiliade, as medidas de Simetria e Curtose, como se constroi um *BoxPlot*, e como é feito o cálculo para a detecção de *OutLiers*.
+
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
+
+| Atividade  |       Tipo de Atividade                                       | Links|
+| :---------: | ------------------------------------------------------------ | ----- |
+|  -          | **Medidas de dispersão** |    |
+| Assíncrona | Videoaula sobre a Aula 5 - Vídeo 1  |  [link](https://www.dropbox.com/s/leb7g2l0xf9tpan/EstBasica_aula5_video1_3.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 5 - Vídeo 2 |  [link](https://www.dropbox.com/s/pmjn551momip9tr/EstBasica_aula5_video2_3.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 5 - Vídeo 3 | [link](https://www.dropbox.com/s/eyafnkyspr2zs80/EstBasica_aula5_video3_3.mp4?dl=0)   |
+| Assíncrona | Slides sobre a Aula 5 | [link](https://www.dropbox.com/s/8bhksdkgn6ui12t/Aula5.pdf?dl=0)   |
+|  -          | **Medidas de assimetria e curtose + boxplot** |    |
+| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 1  |  [link](https://www.dropbox.com/s/e7v3aif1pmngo3o/EstBasica_aula6_video1_3.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 2 |  [link](https://www.dropbox.com/s/erroe8fyjh3ptqm/EstBasica_aula6_video2_3.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 3 |  [link](https://www.dropbox.com/s/dd7dgbsank1t3tz/EstBasica_aula6_video3_3.mp4?dl=0)  |
+| Assíncrona | Slides sobre a Aula 6 | [link](https://www.dropbox.com/s/g85x72svx1zlnix/Aula6.pdf?dl=0)   |
+|  -          | **-** |    |
+| Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link]()  |
+| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link]()  |
+
 
 ### **Aula 7:** Análise Bidimensional (ou medidas de associação)
 
