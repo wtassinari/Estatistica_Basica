@@ -182,7 +182,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 4 - Vídeo 4 | [link](https://www.dropbox.com/s/g7k8sij0w4vcfyp/EstBasica_aula4_video4_4.mp4?dl=0)   |
 | Assíncrona | Slides sobre a Aula 4 | [link](https://www.dropbox.com/s/qkam4a9ws77sry8/Aula4.pdf?dl=0)   |
 | Assíncrona | Lista de exercícios sobre a Aula 4 | [link](https://www.dropbox.com/s/frl3y22jghvgds7/lista_estatisticabasica4.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 4 | [link](https://www.dropbox.com/s/j5749gg1xpi7h8r/Aula4_sincrona.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito da Aula 4 | [link](https://www.dropbox.com/s/mx2gysnu5euq31w/Aula4_sincrona_feita2.pdf?dl=0)  |
 
 ### **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade) e assimetria
 
