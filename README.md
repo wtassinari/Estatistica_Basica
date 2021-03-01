@@ -206,7 +206,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Slides sobre a Aula 6 | [link](https://www.dropbox.com/s/g85x72svx1zlnix/Aula6.pdf?dl=0)   |
 |  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link]()  |
-| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link]()  |
+| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://www.dropbox.com/s/4j30ghkxib7dr8d/Aula5e6_sincrona.pdf?dl=0)  |
 
 
 ### **Aula 7:** Análise Bidimensional (ou medidas de associação)
