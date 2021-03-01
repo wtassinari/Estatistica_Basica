@@ -225,6 +225,6 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 | Atividades  |       Tipo de Atividade                                             |
 | :---------: | ------------------------------------------------------------ |
-| P1 (18/03)  | Orientações para a prova  |  [link]()  |
+| P1 (18/03)  | Orientações para a prova (Ainda irei disponibilizar !!!)  |  [link]()  |
 
-- Segue um modelo do arquivo que deverá ser enviado (feito o upload) com as resoluções das questões da prova: [link]()
+- Segue um modelo do arquivo que deverá ser enviado (feito o upload) com as resoluções das questões da prova (Ainda irei disponibilizar !!!): [link]()
