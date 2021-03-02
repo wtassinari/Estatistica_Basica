@@ -205,7 +205,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 6 - Vídeo 3 |  [link](https://www.dropbox.com/s/dd7dgbsank1t3tz/EstBasica_aula6_video3_3.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 6 | [link](https://www.dropbox.com/s/g85x72svx1zlnix/Aula6.pdf?dl=0)   |
 |  -          | **-** |    |
-| Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link]()  |
+| Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://www.dropbox.com/s/13of66igike3tva/lista_estatisticabasica5e6.pdf?dl=0)  |
 | Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://www.dropbox.com/s/4j30ghkxib7dr8d/Aula5e6_sincrona.pdf?dl=0)  |
 
 
