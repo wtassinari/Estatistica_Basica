@@ -227,4 +227,4 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | :---------: | ------------------------------------------------------------ |
 | P1 (18/03)  | Orientações para a prova     |  [link](https://www.dropbox.com/s/z0ep4bv501tiary/instru%C3%A7%C3%B5es_prova.pdf?dl=0)  |
 
-- Segue um modelo do arquivo que deverá ser enviado (feito o upload através do SIGAA) com as resoluções das questões da prova: [link](https://www.dropbox.com/s/wtrr5a3f6znkof2/Wagner_Tassinari_P1_IC281.pdf?dl=0)
+- Segue um modelo do arquivo que deverá ser enviado (feito o upload através do SIGAA) com a resolução das questões da prova: [link](https://www.dropbox.com/s/wtrr5a3f6znkof2/Wagner_Tassinari_P1_IC281.pdf?dl=0)
