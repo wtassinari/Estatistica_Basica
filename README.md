@@ -202,7 +202,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 |  -          | **Medidas de assimetria e curtose + boxplot** |    |
 | Assíncrona | Videoaula sobre a Aula 6 - Vídeo 1  |  [link](https://www.dropbox.com/s/e7v3aif1pmngo3o/EstBasica_aula6_video1_3.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 6 - Vídeo 2 |  [link](https://www.dropbox.com/s/erroe8fyjh3ptqm/EstBasica_aula6_video2_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 3 |  [link](https://www.dropbox.com/s/dd7dgbsank1t3tz/EstBasica_aula6_video3_3.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 6 - Vídeo 3 |  [link](https://www.dropbox.com/s/j4n15p8kpr3ksrt/EstBasica_aula6_video3_3.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 6 | [link](https://www.dropbox.com/s/g85x72svx1zlnix/Aula6.pdf?dl=0)   |
 |  -          | **-** |    |
 | Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://www.dropbox.com/s/13of66igike3tva/lista_estatisticabasica5e6.pdf?dl=0)  |
