@@ -211,6 +211,23 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ### **Aula 7:** Análise Bidimensional (ou medidas de associação)
 
+- Para esta aula serão mostrados algumas medidas mais usuais para investigar a associação entre variáveis qualitativas e quantitativas, são elas: 
+    
+    1) Para variáveis qualitativas ou categóricas: Estatística de Qui-Quadrado e o coeficiente de Contingência de Pearson;
+    2) Para variáveis quantitativas: Diagrama de Dispersão e o Coeficiente de Correlação Linear de Pearson.
+
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
+
+| Atividades  |       Tipo de Atividade                                             |
+| :---------: | ------------------------------------------------------------ |
+| Assíncrona | Videoaula sobre a Aula 7 - Vídeo 1  |  [link](https://www.dropbox.com/s/zs8wf8jra67lnd7/EstBasica_aula7_video1_2.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://www.dropbox.com/s/y7dnuhtyp79wkgi/EstBasica_aula7_video2_2.mp4?dl=0)  |
+| Assíncrona | Slides sobre a Aula 7 | [link](https://www.dropbox.com/s/xuumwtpzaksc6fe/Aula7.pdf?dl=0)   |
+| Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://www.dropbox.com/s/x677abxhdlx9ft3/lista_estatisticabasica7.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito da Aula 7 | [link]()  |
+
 ### **Aula 8:** Introdução à probabilidade
 
 ### **Aula 9:** Variáveis aleatórias
