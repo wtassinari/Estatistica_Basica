@@ -226,7 +226,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://www.dropbox.com/s/y7dnuhtyp79wkgi/EstBasica_aula7_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 7 | [link](https://www.dropbox.com/s/xuumwtpzaksc6fe/Aula7.pdf?dl=0)   |
 | Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://www.dropbox.com/s/x677abxhdlx9ft3/lista_estatisticabasica7.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 7 | [link]()  |
+| Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://www.dropbox.com/s/g1qu9dgsrwcldwh/Aula7_sincrona.pdf?dl=0)  |
 
 ### **Aula 8:** Introdução à probabilidade
 
