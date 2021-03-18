@@ -19,6 +19,18 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 - Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
 
+
+## Instalando o pacote estatístico R + sua interface gráfica RStudio
+
+- [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
+
+- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
+
+- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
+
+- [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
+
+
 ## IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
 
 
@@ -84,17 +96,6 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 - [Vu, J; Harrington, D. **Introductory Statistics for the Life and Biomedical Sciences**, 1ª edição. 2020.](https://leanpub.com/biostat)
 
 - [Diez, DM; Barr, C D; Çetinkaya-Rundel M. **OpenIntro Statistics**, 3ª edição. 2015.](https://leanpub.com/openintro-statistics)
-
-
-## Instalando o pacote estatístico R + sua interface gráfica RStudio
-
-- [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
-
-- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
-
-- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
-
-
 
 
 # Cronograma do curso:
