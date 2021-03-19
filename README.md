@@ -231,6 +231,22 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ### **Aula 8:** Introdução à probabilidade
 
+- Para esta aula serão apresentados alguns conceitos de teoria da probabilidade, explorando os seguintes tópicos: experimento aleatório, espaço amostral, eventos, probabilidade condicional, teorema da probabilidade total e teorema de Bayes.
+    
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
+
+| Atividades  |       Tipo de Atividade                                             |
+| :---------: | ------------------------------------------------------------ |
+| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 1  |  [link](https://www.dropbox.com/s/k0wcab9wmssvzch/EstBasica_aula8_video1_4.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 2 |  [link](https://www.dropbox.com/s/2kfbryuonp06cyw/EstBasica_aula8_video2_4.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 3  |  [link](https://www.dropbox.com/s/0emkqik85z3rqnx/EstBasica_aula8_video3_4.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://www.dropbox.com/s/qfzmsa3dldudl6s/EstBasica_aula8_video4_4.mp4?dl=0)  |
+| Assíncrona | Slides sobre a Aula 8 | [link](https://www.dropbox.com/s/2rxb1eutyb2tznw/Aula8.pdf?dl=0)   |
+| Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://www.dropbox.com/s/euavjjf012d3e3c/lista_estatisticabasica8.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito da Aula 8 | [link]() Será disponibilizado em breve !!! |
+
 ### **Aula 9:** Variáveis aleatórias
 
 ### **Aula 10:** Distribuições de probabilidade para VA discretas
