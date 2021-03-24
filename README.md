@@ -245,7 +245,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://www.dropbox.com/s/qfzmsa3dldudl6s/EstBasica_aula8_video4_4.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 8 | [link](https://www.dropbox.com/s/2rxb1eutyb2tznw/Aula8.pdf?dl=0)   |
 | Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://www.dropbox.com/s/euavjjf012d3e3c/lista_estatisticabasica8.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 8 | [link]() Será disponibilizado em breve !!! |
+| Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://www.dropbox.com/s/sx3vnuu7uj53lb5/Aula8_sincrona.pdf?dl=0) |
 
 ### **Aula 9:** Variáveis aleatórias
 
