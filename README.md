@@ -245,9 +245,22 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://www.dropbox.com/s/qfzmsa3dldudl6s/EstBasica_aula8_video4_4.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 8 | [link](https://www.dropbox.com/s/2rxb1eutyb2tznw/Aula8.pdf?dl=0)   |
 | Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://www.dropbox.com/s/euavjjf012d3e3c/lista_estatisticabasica8.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://www.dropbox.com/s/sx3vnuu7uj53lb5/Aula8_sincrona.pdf?dl=0) |
+| Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://www.dropbox.com/s/dc5qsny592byg53/Aula8_sincrona_feita.pdf?dl=0) |
 
 ### **Aula 9:** Variáveis aleatórias
+
+- Para esta aula serão apresentados alguns conceitos a respeito de variáveis aleatórias, mais especificamente va discretas, e de seus principais parâmetros característicos (esperança, variância e desvio padrão)
+    
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
+
+| Atividades  |       Tipo de Atividade                                             |
+| :---------: | ------------------------------------------------------------ |
+| Assíncrona | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://www.dropbox.com/s/wwxegjyngqkwit5/EstBasica_aula9_video1_2.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://www.dropbox.com/s/iiwb4rq76nckv04/EstBasica_aula9_video2_2.mp4?dl=0)  |
+| Assíncrona | Slides sobre a Aula 9 | [link](https://www.dropbox.com/s/iiwb4rq76nckv04/EstBasica_aula9_video2_2.mp4?dl=0)   |
+| Síncrona | Atividades síncronas a respeito da Aula 9 | [link]() Em breve !!!! |
 
 ### **Aula 10:** Distribuições de probabilidade para VA discretas
 
