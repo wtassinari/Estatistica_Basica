@@ -264,6 +264,20 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ### **Aula 10:** Distribuições de probabilidade para VA discretas
 
+- Para esta aula serão apresentados alguns modelos de probabilidade para variáveis aleatórias discretas, modelos de Bernoulli e modelo Binomial, e seus principais parâmetros característicos (esperança, variância e desvio padrão)
+    
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
+
+| Atividades  |       Tipo de Atividade                                             |
+| :---------: | ------------------------------------------------------------ |
+| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 1  |  [link](https://www.dropbox.com/s/5zzckqtqzy5ozbt/EstBasica_aula10_video1_2.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://www.dropbox.com/s/nf0qswqhph5jg11/EstBasica_aula10_video2_2.mp4?dl=0)  |
+| Assíncrona | Slides sobre a Aula 10 | [link](https://www.dropbox.com/s/yoxin0bcogemmxw/Aula10.pdf?dl=0)   |
+| Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://www.dropbox.com/s/pvy3olr3q75zq8l/lista_estatisticabasica10.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito da Aula 10 | [link]() Em breve !!!!!! |
+
 ### **Aula 11:** Distribuições de probabilidade para VA contínuas
 
 ### **Aula 12:** Introdução à inferência estatística
