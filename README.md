@@ -259,8 +259,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | :---------: | ------------------------------------------------------------ |
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://www.dropbox.com/s/wwxegjyngqkwit5/EstBasica_aula9_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://www.dropbox.com/s/iiwb4rq76nckv04/EstBasica_aula9_video2_2.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 9 | [link](https://www.dropbox.com/s/iiwb4rq76nckv04/EstBasica_aula9_video2_2.mp4?dl=0)   |
-| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://www.dropbox.com/s/m7ldxvdrvis250a/Aula9_sincrona.pdf?dl=0)  |
+| Assíncrona | Slides sobre a Aula 9 | [link](https://www.dropbox.com/s/565lf480gyg8xjo/Aula9.pdf?dl=0)   |
+| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://www.dropbox.com/s/y5kqk2ojjesxxlf/Aula9_sincrona_feita2.pdf?dl=0)  |
 
 ### **Aula 10:** Distribuições de probabilidade para VA discretas
 
