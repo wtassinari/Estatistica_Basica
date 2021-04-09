@@ -280,6 +280,24 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 ### **Aula 11:** Distribuições de probabilidade para VA contínuas
 
+- Para esta aula serão apresentados um modelo de probabilidade para variáveis aleatórias contínuas, o modelos de distribuição normal.
+    
+- Todo o conteúdo dessa aula, será abordado de forma assíncrona (videoaulas e lista de exercícios). 
+
+- Para a atividade síncrona, é sugerido que os alunos assistam as videoaulas e tentem fazer os exercícios propostos.
+
+| Atividades  |       Tipo de Atividade                                             |
+| :---------: | ------------------------------------------------------------ |
+| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 1  |  [link](https://www.dropbox.com/s/b84j02t4nxr1px8/EstBasica_aula11_video1_4.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 2 |  [link](https://www.dropbox.com/s/j6rdboxdl9khgxr/EstBasica_aula11_video2_4.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 3  |  [link](https://www.dropbox.com/s/v6w4vpl9eupd0bg/EstBasica_aula11_video3_4.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://www.dropbox.com/s/msrjy8pb76hnqob/EstBasica_aula11_video4_4.mp4?dl=0)  |
+| Assíncrona | Slides sobre a Aula 11 | [link](https://www.dropbox.com/s/msrjy8pb76hnqob/EstBasica_aula11_video4_4.mp4?dl=0)   |
+| Assíncrona | Lista de exercícios sobre a Aula 11 | [link]( ) Em breve !!!!  |
+| Síncrona | Atividades síncronas a respeito da Aula 11 | [link]() Em breve !!!!! |
+
+**Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://www.dropbox.com/s/4r0xa42xl6qe4t3/tabela_normal.pdf?dl=0)
+
 ### **Aula 12:** Introdução à inferência estatística
 
 ### Orientações para a elaboração das provas
