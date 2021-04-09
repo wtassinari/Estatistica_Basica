@@ -292,7 +292,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 11 - Vídeo 2 |  [link](https://www.dropbox.com/s/j6rdboxdl9khgxr/EstBasica_aula11_video2_4.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 11 - Vídeo 3  |  [link](https://www.dropbox.com/s/v6w4vpl9eupd0bg/EstBasica_aula11_video3_4.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://www.dropbox.com/s/msrjy8pb76hnqob/EstBasica_aula11_video4_4.mp4?dl=0)  |
-| Assíncrona | Slides sobre a Aula 11 | [link](https://www.dropbox.com/s/msrjy8pb76hnqob/EstBasica_aula11_video4_4.mp4?dl=0)   |
+| Assíncrona | Slides sobre a Aula 11 | [link](https://www.dropbox.com/s/n36wffnq5z2ndd6/Aula11.pdf?dl=0)   |
 | Assíncrona | Lista de exercícios sobre a Aula 11 | [link]( ) Em breve !!!!  |
 | Síncrona | Atividades síncronas a respeito da Aula 11 | [link]() Em breve !!!!! |
 
