@@ -275,8 +275,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 1  |  [link](https://www.dropbox.com/s/5zzckqtqzy5ozbt/EstBasica_aula10_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://www.dropbox.com/s/nf0qswqhph5jg11/EstBasica_aula10_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 10 | [link](https://www.dropbox.com/s/yoxin0bcogemmxw/Aula10.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://www.dropbox.com/s/ys2xcljl91o0rmx/Aula10_sincrona_feita.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://www.dropbox.com/s/nbuzvvxn7wy2l2y/Aula10_sincrona.pdf?dl=0) |
+| Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://www.dropbox.com/s/pvy3olr3q75zq8l/lista_estatisticabasica10.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://www.dropbox.com/s/ys2xcljl91o0rmx/Aula10_sincrona_feita.pdf?dl=0) |
 
 ### **Aula 11:** Distribuições de probabilidade para VA contínuas
 
