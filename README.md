@@ -262,6 +262,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Slides sobre a Aula 9 | [link](https://www.dropbox.com/s/565lf480gyg8xjo/Aula9.pdf?dl=0)   |
 | Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://www.dropbox.com/s/y5kqk2ojjesxxlf/Aula9_sincrona_feita2.pdf?dl=0)  |
 
+**Obs:** Para esta aula não haverá lista de exercícios.
+
 ### **Aula 10:** Distribuições de probabilidade para VA discretas
 
 - Para esta aula serão apresentados alguns modelos de probabilidade para variáveis aleatórias discretas, modelos de Bernoulli e modelo Binomial, e seus principais parâmetros característicos (esperança, variância e desvio padrão)
