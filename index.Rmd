@@ -2,8 +2,8 @@
 title: "Disciplinas de Estatística Básica e Introdução à Bioestatística"
 date: ""
 output:
-  rmdformats::downcute:
-    highlight: material
+  rmdformats::readthedown:
+    highlight: kate
 ---
 
 
