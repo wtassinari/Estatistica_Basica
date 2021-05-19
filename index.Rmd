@@ -35,28 +35,26 @@ knitr::include_graphics('rural.jpg')
 
 Repositório das disciplinas de Estatística Básica e Introdução à Bioestatística - 2020-1 (DEMAT/UFRRJ)
 
-## OBJETIVO DAS DISCIPLINAS: 
+# Objetivo das Disciplinas: 
 
 - Introduzir os conceitos básicos de estatística dando maior ênfase às aplicações nas diversas ciências.
 
+\vspace{0.3mm}
+
 - O curso será composto de atividades **síncronas** (são atividades baseadas em encontros remotos professor-alunos de forma on line) e  de atividades **assíncronas** (são atividades que poderam ser feitas pelos alunos sem a presença do professor, por exemplo: Leitura do material bibliográfico, videoaulas, listas de exercícios e etc). As aulas síncronas serão feitas via plataforma Google Meet durante o horário original da disciplina. Os dias das aulas síncronas estão indicadas na tabela abaixo contendo o cronograma do curso. durante o período do curso. O link para o acesso as aulas estará disponível no sistema SIGAA/UFRRJ no tópico do primeiro dia de aula.
+
+\vspace{0.3mm}
 
 - Neste curso será utilizado o **pacote estatístico R** utilizando a interface gráfica **RStudio** e o **R Commander**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN (https://cran.r-project.org/), é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
 
+\vspace{0.3mm}
+
 - Uma das formas de utilizar a linguagem R é através da interface gráfica **RStudio** (https://rstudio.com/products/rstudio/), que é uma IDE ou ambiente de desenvolvimento integrado, para o pacote R. Com sua utilização gratuita, o RStudio é uma excelente ferramenta para trabalhar com o R. Essa plataforma é extremamente visual quando comparado com ambientes de outras linguagens e também com o console do R, e muito simples de se utilizar.
+
+\vspace{0.3mm}
 
 - Uma outra opção para trabalhar com o pacote estatístico R é a versão mobile do R: [R Programming Compiler](https://play.google.com/store/apps/details?id=com.krazeapps.rprogrammingcompiler)
 
-
-## Instalando o pacote estatístico R + sua interface gráfica RStudio
-
-- [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
-
-- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
-
-- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
-
-- [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
 
 ### IMPORTANTE !!!!!!!!!!!! Informativo quanto aos cuidados no uso e compartilhamento do material oral e digital disponibilizado no curso. Direitos de imagem de discentes e docentes, bem como a lei de direitos autorais: Estão proibidas quaisquer outras formas de utilização, tais como copiar, editar, adicionar, reduzir, exibir, difundir publicamente, transmitir a terceiros, bem como trocar, emprestar ou praticar qualquer ato de comercialização.
@@ -69,7 +67,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 *Art. 31 § 1o - Para as atividades remotas síncronas haverá aferição de assiduidade...*
 
 
-### PROGRAMA:
+# Programa:
 
 - Introdução à Estatística
 
@@ -91,39 +89,73 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 
 
-## AVALIAÇÃO:
+# Avaliação:
 
 - P1 – 18/03/2021 
 
+\vspace{0.3mm}
+
 - P2 – 29/04/2021
+
+\vspace{0.3mm}
 
 - Segunda Chamada – 04/05/2021
 
+\vspace{0.3mm}
+
 - Optativa – 06/05/2021
+
+\vspace{0.3mm}
 
 - A média final será composta pela nota da primeira e da segunda avaliação.
 
+\vspace{0.3mm}
+
 - OBS1: Será aplicada apenas uma prova de segunda chamada.
+
+\vspace{0.3mm}
 
 - OBS2: A nota da prova optativa substituirá a menor nota entre as avaliações P1 e P2, sendo a média recalculada.
 
 
-## Bibliografias
+# Bibliografias
 
-### Bibliografia Básica
+## Bibliografia Básica
 
 -  Wilton O. Bussab; Pedro A. Morettin. **Estatística Básica**. Editora Saraiva
+
+\vspace{0.3mm}
 
 -  Sonia Vieira. **Introdução à Bioestatística**. Editora Elsevier
 
 
-### Bibliografia Sugerida
+## Bibliografia Sugerida
 
 - [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://www.dropbox.com/s/6vnexi22twf92ox/Apostila_Estatistica_Basica_%26_Int_Bioestatistica.pdf?dl=0)
 
+\vspace{0.3mm}
+
 - [Vu, J; Harrington, D. **Introductory Statistics for the Life and Biomedical Sciences**, 1ª edição. 2020.](https://leanpub.com/biostat)
 
+\vspace{0.3mm}
+
 - [Diez, DM; Barr, C D; Çetinkaya-Rundel M. **OpenIntro Statistics**, 3ª edição. 2015.](https://leanpub.com/openintro-statistics)
+
+# Instalando o pacote estatístico R + sua interface gráfica RStudio
+
+- [Video mostrando sites para download do R](https://www.youtube.com/watch?v=waiNuVtj9-U)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando como instalar Rstudio no Windows](https://www.youtube.com/watch?v=aeK6-kPhofk)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando como instalar o R + Rstudio no Windows](https://www.youtube.com/watch?v=PWMqxKWHlz4&t=207s)
+
+\vspace{0.3mm}
+
+- [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
 
 # Cronograma do curso:
@@ -148,7 +180,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 **OBS:** As aulas síncronas estão marcadas com um asteristico.
 
-### Apresentação da disciplina
+## **Apresentação da disciplina**
 
 - Nessa aula síncrona será apresentado esse novo formato da disciplina (conteúdo e dinâmica das aulas). 
 
@@ -346,7 +378,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://www.dropbox.com/s/4r0xa42xl6qe4t3/tabela_normal.pdf?dl=0)
 
-### Orientações para a elaboração das provas
+# Orientações para a elaboração das provas
 
 - As provas deverão ser feitas segundo as seguintes orientações: [link](https://www.dropbox.com/s/z0ep4bv501tiary/instru%C3%A7%C3%B5es_prova.pdf?dl=0) 
 
