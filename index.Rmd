@@ -239,8 +239,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://www.dropbox.com/s/xkmaoybeyimm5gd/EstBasica_aula1_video2_3.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://www.dropbox.com/s/jce7ywosl4qbc9g/EstBasica_aula1_video3_3.mp4?dl=0)   |
 | Assíncrona | Slides sobre a Aula 1 | [link](https://www.dropbox.com/s/qt7r0td6r2m7wwx/Aula1.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://www.dropbox.com/s/c7w73pd8nq4q53q/lista_estatisticabasica1.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 1 |  [link](https://www.dropbox.com/s/id5d1zwomfx52au/Aula1_sincrona_feita.pdf?dl=0)  |
+<!-- | Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://www.dropbox.com/s/c7w73pd8nq4q53q/lista_estatisticabasica1.pdf?dl=0)  | -->
+<!-- | Síncrona | Atividades síncronas a respeito da Aula 1 |  [link](https://www.dropbox.com/s/id5d1zwomfx52au/Aula1_sincrona_feita.pdf?dl=0)  | -->
 
 
 ## **Aulas 2 e 3:** Apresentação dos dados em tabelas e gráficos
@@ -262,9 +262,9 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 3 - Vídeo 1  |  [link](https://www.dropbox.com/s/qdz8ozj59hy1n67/EstBasica_aula3_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 3 - Vídeo 2 |  [link](https://www.dropbox.com/s/3f91itwo4lv8rzc/EstBasica_aula3_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 3 | [link](https://www.dropbox.com/s/2dhen3pbzb4v224/Aula3.pdf?dl=0)   |
-|  -          | **-** |    |
-| Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://www.dropbox.com/s/q8txvngwsuzbmxg/lista_estatisticabasica2e3.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://www.dropbox.com/s/v4zzbso5rlvye2i/Aula2e3_sincrona_feita.pdf?dl=0)  |
+<!-- |  -          | **-** |    | -->
+<!-- | Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://www.dropbox.com/s/q8txvngwsuzbmxg/lista_estatisticabasica2e3.pdf?dl=0)  | -->
+<!-- | Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://www.dropbox.com/s/v4zzbso5rlvye2i/Aula2e3_sincrona_feita.pdf?dl=0)  | -->
 
 
 ## **Aula 4:** Medidas de posição e medidas separatrizes
@@ -282,8 +282,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 4 - Vídeo 3 | [link](https://www.dropbox.com/s/f0o9z4n8sfze3vx/EstBasica_aula4_video3_4.mp4?dl=0)   |
 | Assíncrona | Videoaula sobre a Aula 4 - Vídeo 4 | [link](https://www.dropbox.com/s/g7k8sij0w4vcfyp/EstBasica_aula4_video4_4.mp4?dl=0)   |
 | Assíncrona | Slides sobre a Aula 4 | [link](https://www.dropbox.com/s/qkam4a9ws77sry8/Aula4.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 4 | [link](https://www.dropbox.com/s/frl3y22jghvgds7/lista_estatisticabasica4.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 4 | [link](https://www.dropbox.com/s/mx2gysnu5euq31w/Aula4_sincrona_feita2.pdf?dl=0)  |
+<!-- | Assíncrona | Lista de exercícios sobre a Aula 4 | [link](https://www.dropbox.com/s/frl3y22jghvgds7/lista_estatisticabasica4.pdf?dl=0)  | -->
+<!-- | Síncrona | Atividades síncronas a respeito da Aula 4 | [link](https://www.dropbox.com/s/mx2gysnu5euq31w/Aula4_sincrona_feita2.pdf?dl=0)  | -->
 
 ## **Aulas 5 e 6:** Medidas de dispersão (ou variabilidade), assimetria e curtose
 
@@ -305,9 +305,9 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 6 - Vídeo 2 |  [link](https://www.dropbox.com/s/erroe8fyjh3ptqm/EstBasica_aula6_video2_3.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 6 - Vídeo 3 |  [link](https://www.dropbox.com/s/j4n15p8kpr3ksrt/EstBasica_aula6_video3_3.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 6 | [link](https://www.dropbox.com/s/g85x72svx1zlnix/Aula6.pdf?dl=0)   |
-|  -          | **-** |    |
-| Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://www.dropbox.com/s/13of66igike3tva/lista_estatisticabasica5e6.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://www.dropbox.com/s/0zoiaygzhhzcdj4/Aula5e6_sincrona_feita2.pdf?dl=0)  |
+<!-- |  -          | **-** |    | -->
+<!-- | Assíncrona | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://www.dropbox.com/s/13of66igike3tva/lista_estatisticabasica5e6.pdf?dl=0)  | -->
+<!-- | Síncrona | Atividades síncronas a respeito das Aulas 5 e 6 |  [link](https://www.dropbox.com/s/0zoiaygzhhzcdj4/Aula5e6_sincrona_feita2.pdf?dl=0)  | -->
 
 
 ## **Aula 7:** Análise Bidimensional (ou medidas de associação)
@@ -326,8 +326,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 7 - Vídeo 1  |  [link](https://www.dropbox.com/s/zs8wf8jra67lnd7/EstBasica_aula7_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 7 - Vídeo 2 |  [link](https://www.dropbox.com/s/y7dnuhtyp79wkgi/EstBasica_aula7_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 7 | [link](https://www.dropbox.com/s/xuumwtpzaksc6fe/Aula7.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://www.dropbox.com/s/x677abxhdlx9ft3/lista_estatisticabasica7.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://www.dropbox.com/s/3s20esdny4iqfl9/Aula7_sincrona_feita2.pdf?dl=0)  |
+<!-- | Assíncrona | Lista de exercícios sobre a Aula 7 | [link](https://www.dropbox.com/s/x677abxhdlx9ft3/lista_estatisticabasica7.pdf?dl=0)  | -->
+<!-- | Síncrona | Atividades síncronas a respeito da Aula 7 | [link](https://www.dropbox.com/s/3s20esdny4iqfl9/Aula7_sincrona_feita2.pdf?dl=0)  | -->
 
 ## **Aula 8:** Introdução à probabilidade
 
@@ -344,8 +344,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 8 - Vídeo 3  |  [link](https://www.dropbox.com/s/0emkqik85z3rqnx/EstBasica_aula8_video3_4.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://www.dropbox.com/s/qfzmsa3dldudl6s/EstBasica_aula8_video4_4.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 8 | [link](https://www.dropbox.com/s/2rxb1eutyb2tznw/Aula8.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://www.dropbox.com/s/euavjjf012d3e3c/lista_estatisticabasica8.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://www.dropbox.com/s/dc5qsny592byg53/Aula8_sincrona_feita.pdf?dl=0) |
+<!-- | Assíncrona | Lista de exercícios sobre a Aula 8 | [link](https://www.dropbox.com/s/euavjjf012d3e3c/lista_estatisticabasica8.pdf?dl=0)  | -->
+<!-- | Síncrona | Atividades síncronas a respeito da Aula 8 | [link](https://www.dropbox.com/s/dc5qsny592byg53/Aula8_sincrona_feita.pdf?dl=0) | -->
 
 ## **Aula 9:** Variáveis aleatórias
 
@@ -360,7 +360,7 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://www.dropbox.com/s/wwxegjyngqkwit5/EstBasica_aula9_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://www.dropbox.com/s/iiwb4rq76nckv04/EstBasica_aula9_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 9 | [link](https://www.dropbox.com/s/565lf480gyg8xjo/Aula9.pdf?dl=0)   |
-| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://www.dropbox.com/s/y5kqk2ojjesxxlf/Aula9_sincrona_feita2.pdf?dl=0)  |
+<!-- | Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://www.dropbox.com/s/y5kqk2ojjesxxlf/Aula9_sincrona_feita2.pdf?dl=0)  | -->
 
 **Obs:** Para esta aula não haverá lista de exercícios.
 
@@ -377,8 +377,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 1  |  [link](https://www.dropbox.com/s/5zzckqtqzy5ozbt/EstBasica_aula10_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://www.dropbox.com/s/nf0qswqhph5jg11/EstBasica_aula10_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 10 | [link](https://www.dropbox.com/s/yoxin0bcogemmxw/Aula10.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://www.dropbox.com/s/pvy3olr3q75zq8l/lista_estatisticabasica10.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://www.dropbox.com/s/ys2xcljl91o0rmx/Aula10_sincrona_feita.pdf?dl=0) |
+<!-- | Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://www.dropbox.com/s/pvy3olr3q75zq8l/lista_estatisticabasica10.pdf?dl=0)  | -->
+<!-- | Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://www.dropbox.com/s/ys2xcljl91o0rmx/Aula10_sincrona_feita.pdf?dl=0) | -->
 
 ## **Aula 11:** Distribuições de probabilidade para VA contínuas
 
@@ -395,8 +395,8 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 11 - Vídeo 3  |  [link](https://www.dropbox.com/s/v6w4vpl9eupd0bg/EstBasica_aula11_video3_4.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://www.dropbox.com/s/msrjy8pb76hnqob/EstBasica_aula11_video4_4.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 11 | [link](https://www.dropbox.com/s/n36wffnq5z2ndd6/Aula11.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 11 | [link](https://www.dropbox.com/s/gplwvlycconodlw/lista_estatisticabasica11.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 11 | [link](https://www.dropbox.com/s/oxi3lrpmmoezwk3/Aula11_sincrona_feita.pdf?dl=0) |
+<!-- | Assíncrona | Lista de exercícios sobre a Aula 11 | [link](https://www.dropbox.com/s/gplwvlycconodlw/lista_estatisticabasica11.pdf?dl=0)  | -->
+<!-- | Síncrona | Atividades síncronas a respeito da Aula 11 | [link](https://www.dropbox.com/s/oxi3lrpmmoezwk3/Aula11_sincrona_feita.pdf?dl=0) | -->
 
 **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://www.dropbox.com/s/4r0xa42xl6qe4t3/tabela_normal.pdf?dl=0)
 
@@ -413,13 +413,13 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 | Assíncrona | Videoaula sobre a Aula 12 - Vídeo 1  |  [link](https://www.dropbox.com/s/1nw1prdxx4wg4po/EstBasica_aula12_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://www.dropbox.com/s/hfptdpkdavj0j1h/EstBasica_aula12_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 12 | [link](https://www.dropbox.com/s/bz4j20jqfig04m3/Aula12.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://www.dropbox.com/s/ofqpzouhasdfbcp/lista_estatisticabasica12.pdf?dl=0) |
-| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://www.dropbox.com/s/5mtc7druelyt7ex/Aula12_sincrona_feita2.pdf?dl=0) |
+<!-- | Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://www.dropbox.com/s/ofqpzouhasdfbcp/lista_estatisticabasica12.pdf?dl=0) | -->
+<!-- | Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://www.dropbox.com/s/5mtc7druelyt7ex/Aula12_sincrona_feita2.pdf?dl=0) | -->
 
 **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://www.dropbox.com/s/4r0xa42xl6qe4t3/tabela_normal.pdf?dl=0)
 
-# Orientações para a elaboração das provas
+<!-- # Orientações para a elaboração das provas -->
 
-- As provas deverão ser feitas segundo as seguintes orientações: [link](https://www.dropbox.com/s/z0ep4bv501tiary/instru%C3%A7%C3%B5es_prova.pdf?dl=0) 
+<!-- - As provas deverão ser feitas segundo as seguintes orientações: [link](https://www.dropbox.com/s/z0ep4bv501tiary/instru%C3%A7%C3%B5es_prova.pdf?dl=0)  -->
 
-- Segue um modelo do arquivo que deverá ser enviado (feito o upload através do SIGAA) com a resolução das questões da prova: [link](https://www.dropbox.com/s/wtrr5a3f6znkof2/Wagner_Tassinari_P1_IC281.pdf?dl=0)
+<!-- - Segue um modelo do arquivo que deverá ser enviado (feito o upload através do SIGAA) com a resolução das questões da prova: [link](https://www.dropbox.com/s/wtrr5a3f6znkof2/Wagner_Tassinari_P1_IC281.pdf?dl=0) -->
