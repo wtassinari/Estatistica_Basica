@@ -23,7 +23,24 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
+```{r}
+## Color Format
+colFmt <- function(x,color) {
+  
+  outputFormat <- knitr::opts_knit$get("rmarkdown.pandoc.to")
+  
+  if(outputFormat == 'latex') {
+    ret <- paste("\\textcolor{",color,"}{",x,"}",sep="")
+  } else if(outputFormat == 'html') {
+    ret <- paste("<font color='",color,"'>",x,"</font>",sep="")
+  } else {
+    ret <- x
+  }
 
+  return(ret)
+}
+
+```
 
 **Prof. Wagner Tassinari (DEMAT/UFRRJ)**
 
@@ -91,19 +108,19 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 
 # Avaliação:
 
-- P1 – 18/03/2021 
+- P1 – 13/07/2021 
 
 \vspace{0.3mm}
 
-- P2 – 29/04/2021
+- P2 – 19/08/2021
 
 \vspace{0.3mm}
 
-- Segunda Chamada – 04/05/2021
+- Segunda Chamada – 24/08/2021
 
 \vspace{0.3mm}
 
-- Optativa – 06/05/2021
+- Optativa – 26/08/2021
 
 \vspace{0.3mm}
 
@@ -158,27 +175,50 @@ Repositório das disciplinas de Estatística Básica e Introdução à Bioestat�
 - [Vídeo mostrando o tutorial sobre compilador do R para celular](https://www.youtube.com/watch?v=plF3TUEw0Lg)
 
 
+
 # Cronograma do curso:
+
+
+<!-- |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas | -->
+<!-- | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: | -->
+<!-- | **01/06** |    Apresentação da  Disciplina*    |   -   |      | **20/07** |            Introdução à Probabilidade            |   8   | -->
+<!-- | **08/06** |         Conceitos Básicos         |   1   |      | **22/07** |            Introdução à Probabilidade*            |   8   | -->
+<!-- | **10/06** |         Conceitos Básicos*         |   1   |      | **27/07** |               Variáveis Aleatórias               |   9   | -->
+<!-- | **15/06** |        Tabelas e Gráficos         | 2 e 3 |      | **29/07** |               Variáveis Aleatórias*               |   9   | -->
+<!-- | **17/06** |        Tabelas e Gráficos*         | 2 e 3 |      | **03/08** | Distribuições de Probabilidade para VA discretas |  10   | -->
+<!-- | **22/06** |        Medidas de Posição         |   4   |      | **05/08** | Distribuições de Probabilidade para VA discretas* |  10   | -->
+<!-- | **24/06** |        Medidas de Posição*         |   4   |      | **10/08** | Distribuições de Probabilidade para VA contínuas |  11   | -->
+<!-- | **29/06** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **12/08** | Distribuições de Probabilidade para VA contínuas* |  11   | -->
+<!-- | **01/07** | Medidas de Dispersão e Assimetria* | 5 e 6 |      | **17/08** |       Introdução à Inferência Estatística        |  12   | -->
+<!-- | **06/07** |       Análise Bidimensional       |   7   |      | **19/08** |       Introdução à Inferência Estatística*        |  12   | -->
+<!-- | **08/07** |       Análise Bidimensional*       |   7   |      | **24/08** |                     Revisão*                     |       | -->
+<!-- | **13/07** |              Revisão*              |       |      | **26/08** |                        P2                        |       | -->
+<!-- | **15/07** |                P1                 |       |      | **04/05** |                 Segunda chamada                  |       | -->
+<!-- |     -     |                 -                 |       |      | **06/05** |                     Optativa                     |       | -->
 
 
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
-| **02/02** |    Apresentação da  Disciplina*    |   -   |      | **23/03** |            Introdução à Probabilidade            |   8   |
-| **04/02** |         Conceitos Básicos         |   1   |      | **25/03** |            Introdução à Probabilidade*            |   8   |
-| **09/02** |         Conceitos Básicos*         |   1   |      | **30/03** |               Variáveis Aleatórias               |   9   |
-| **11/02** |        Tabelas e Gráficos         | 2 e 3 |      | **01/04** |               Variáveis Aleatórias*               |   9   |
-| **18/02** |        Tabelas e Gráficos*         | 2 e 3 |      | **06/04** | Distribuições de Probabilidade para VA discretas |  10   |
-| **23/02** |        Medidas de Posição         |   4   |      | **08/04** | Distribuições de Probabilidade para VA discretas* |  10   |
-| **25/02** |        Medidas de Posição*         |   4   |      | **13/04** | Distribuições de Probabilidade para VA contínuas |  11   |
-| **02/03** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **15/04** | Distribuições de Probabilidade para VA contínuas* |  11   |
-| **04/03** | Medidas de Dispersão e Assimetria* | 5 e 6 |      | **20/04** |       Introdução à Inferência Estatística        |  12   |
-| **09/03** |       Análise Bidimensional       |   7   |      | **22/04** |       Introdução à Inferência Estatística*        |  12   |
-| **11/03** |       Análise Bidimensional*       |   7   |      | **27/04** |                     Revisão*                     |       |
-| **16/03** |              Revisão*              |       |      | **29/04** |                        P2                        |       |
-| **18/03** |                P1                 |       |      | **04/05** |                 Segunda chamada                  |       |
-|     -     |                 -                 |       |      | **06/05** |                     Optativa                     |       |
+| **01/06** |  `r colFmt("Apresentação da  Disciplina*",'blue')`  |   -   |      | **15/07** |  Introdução à Probabilidade  |   8   |
+| **08/06** |         Conceitos Básicos         |   1   |      | **20/07** |  `r colFmt("Introdução à Probabilidade*",'blue')`            |   8   |
+| **10/06** | `r colFmt("Conceitos Básicos*",'blue')`         |   1   |      | **22/07** |               Variáveis Aleatórias               |   9   |
+| **15/06** |        Tabelas e Gráficos         | 2 e 3 |      | **27/07** | `r colFmt("Variáveis Aleatórias*",'blue')`                           |   9   |
+| **17/06** | `r colFmt("Tabelas e Gráficos*",'blue')`         | 2 e 3 |      | **29/07** | Distribuições de Probabilidade para VA discretas |  10   |
+| **22/06** |        Medidas de Posição         |   4   |      | **03/08** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')` |  10   |
+| **24/06** | `r colFmt("Medidas de Posição*",'blue')`         |   4   |      | **05/08** | Distribuições de Probabilidade para VA contínuas |  11   |
+| **29/06** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **10/08** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
+| **01/07** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **12/08** |       Introdução à Inferência Estatística        |  12   |
+| **06/07** |       Análise Bidimensional       |   7   |      | **17/08** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`                      |  12   |
+| **08/07** | `r colFmt("Análise Bidimensional*",'blue')`       |   7   |      | **19/08** |     `r colFmt("P2**",'red')`        |       |
+| **13/07** |  `r colFmt("P1**",'red')`             |       |      | **24/08** |  `r colFmt("Segunda chamada**",'red')`                       |       |
+| **-** |    -    |       |      |  **26/08** |     `r colFmt("Optativa**",'red')`                 |       |
 
-**OBS:** As aulas síncronas estão marcadas com um asteristico.
+
+###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
+
+###### `r colFmt("  **As avaliações estão escritas na cor vermelha marcadas com dois asterísticos.",'red')`
+
+
 
 ## **Apresentação da disciplina**
 
