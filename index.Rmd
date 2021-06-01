@@ -64,7 +64,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ## Sobre o pacote estatístico R 
 
-- Neste curso também está previsto a utilização do **pacote estatístico R** utilizando a interface gráfica **RStudio** e o **R Commander**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN ([link](https://cran.r-project.org/)). O pacote estatístico R é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
+- Neste curso também está previsto a utilização do **pacote estatístico R** utilizando a interface gráfica do **RStudio**. O pacote estatístico R, que pode ser encontrado no site oficial do projeto CRAN ([link](https://cran.r-project.org/)). O pacote estatístico R é uma linguagem de programação estatística e gráfica direcionada para a manipulação, visualização e análise estatística de dados, que atualmente vem sendo considerada uma das melhores ferramentas para essa finalidade. A linguagem ainda possui como diferencial a facilidade no aprendizado, mesmo para aqueles que nunca tiveram contato anterior com programação. O pacote estatístico R é um *software* livre (*free*) e de código aberto (*open source*) para análise de dados.
 
 \vspace{0.3mm}
 
