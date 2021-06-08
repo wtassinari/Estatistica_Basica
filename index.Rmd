@@ -265,9 +265,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 3 - Vídeo 1  |  [link](https://www.dropbox.com/s/qdz8ozj59hy1n67/EstBasica_aula3_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 3 - Vídeo 2 |  [link](https://www.dropbox.com/s/3f91itwo4lv8rzc/EstBasica_aula3_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 3 | [link](https://www.dropbox.com/s/2dhen3pbzb4v224/Aula3.pdf?dl=0)   |
-<!-- |  -          | **-** |    | -->
-<!-- | Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://www.dropbox.com/s/q8txvngwsuzbmxg/lista_estatisticabasica2e3.pdf?dl=0)  | -->
-<!-- | Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://www.dropbox.com/s/v4zzbso5rlvye2i/Aula2e3_sincrona_feita.pdf?dl=0)  | -->
+|  -          | **-** |    |
+| Assíncrona | Lista de exercícios sobre as Aulas 2 e 3 |  [link](https://www.dropbox.com/s/q8txvngwsuzbmxg/lista_estatisticabasica2e3.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito das Aulas 2 e 3 |  [link](https://www.dropbox.com/s/8wgdbsljumhxqbu/Aula2e3_sincrona.pdf?dl=0)  |
 
 
 ## **Aula 4:** Medidas de posição e medidas separatrizes
