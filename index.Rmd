@@ -363,9 +363,10 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://www.dropbox.com/s/wwxegjyngqkwit5/EstBasica_aula9_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://www.dropbox.com/s/iiwb4rq76nckv04/EstBasica_aula9_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 9 | [link](https://www.dropbox.com/s/565lf480gyg8xjo/Aula9.pdf?dl=0)   |
-<!-- | Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://www.dropbox.com/s/y5kqk2ojjesxxlf/Aula9_sincrona_feita2.pdf?dl=0)  | -->
+| Síncrona | Atividades síncronas a respeito da Aula 9 | [link](https://www.dropbox.com/s/m7ldxvdrvis250a/Aula9_sincrona.pdf?dl=0)  |
 
-**Obs:** Para esta aula não haverá lista de exercícios.
+`r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')`
+
 
 ## **Aula 10:** Distribuições de probabilidade para VA discretas
 
@@ -381,8 +382,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://www.dropbox.com/s/nf0qswqhph5jg11/EstBasica_aula10_video2_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://www.dropbox.com/s/ru54675hrgghj4k/EstBasica_aula10_video3_poisson.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 10 | [link](https://www.dropbox.com/s/dk7p6su9f47i5c5/Aula10.pdf?dl=0)   |
-<!-- | Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://www.dropbox.com/s/pvy3olr3q75zq8l/lista_estatisticabasica10.pdf?dl=0)  | -->
-<!-- | Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://www.dropbox.com/s/ys2xcljl91o0rmx/Aula10_sincrona_feita.pdf?dl=0) | -->
+| Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://www.dropbox.com/s/pvy3olr3q75zq8l/lista_estatisticabasica10.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito da Aula 10 | [link](https://www.dropbox.com/s/nbuzvvxn7wy2l2y/Aula10_sincrona.pdf?dl=0) |
 
 ## **Aula 11:** Distribuições de probabilidade para VA contínuas
 
@@ -399,8 +400,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 11 - Vídeo 3  |  [link](https://www.dropbox.com/s/v6w4vpl9eupd0bg/EstBasica_aula11_video3_4.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://www.dropbox.com/s/msrjy8pb76hnqob/EstBasica_aula11_video4_4.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 11 | [link](https://www.dropbox.com/s/n36wffnq5z2ndd6/Aula11.pdf?dl=0)   |
-<!-- | Assíncrona | Lista de exercícios sobre a Aula 11 | [link](https://www.dropbox.com/s/gplwvlycconodlw/lista_estatisticabasica11.pdf?dl=0)  | -->
-<!-- | Síncrona | Atividades síncronas a respeito da Aula 11 | [link](https://www.dropbox.com/s/oxi3lrpmmoezwk3/Aula11_sincrona_feita.pdf?dl=0) | -->
+| Assíncrona | Lista de exercícios sobre a Aula 11 | [link](https://www.dropbox.com/s/gplwvlycconodlw/lista_estatisticabasica11.pdf?dl=0)  |
+| Síncrona | Atividades síncronas a respeito da Aula 11 | [link](https://www.dropbox.com/s/sv8ys6zodaddbzq/Aula11_sincrona.pdf?dl=0) |
 
 **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://www.dropbox.com/s/4r0xa42xl6qe4t3/tabela_normal.pdf?dl=0)
 
@@ -417,8 +418,8 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 12 - Vídeo 1  |  [link](https://www.dropbox.com/s/1nw1prdxx4wg4po/EstBasica_aula12_video1_2.mp4?dl=0)  |
 | Assíncrona | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://www.dropbox.com/s/hfptdpkdavj0j1h/EstBasica_aula12_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 12 | [link](https://www.dropbox.com/s/bz4j20jqfig04m3/Aula12.pdf?dl=0)   |
-<!-- | Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://www.dropbox.com/s/ofqpzouhasdfbcp/lista_estatisticabasica12.pdf?dl=0) | -->
-<!-- | Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://www.dropbox.com/s/5mtc7druelyt7ex/Aula12_sincrona_feita2.pdf?dl=0) | -->
+| Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://www.dropbox.com/s/ofqpzouhasdfbcp/lista_estatisticabasica12.pdf?dl=0) |
+| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://www.dropbox.com/s/pr1nae2f0nz4zyz/Aula12_sincrona.pdf?dl=0) |
 
 **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://www.dropbox.com/s/4r0xa42xl6qe4t3/tabela_normal.pdf?dl=0)
 
