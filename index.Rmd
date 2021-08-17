@@ -419,7 +419,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Assíncrona | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://www.dropbox.com/s/hfptdpkdavj0j1h/EstBasica_aula12_video2_2.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 12 | [link](https://www.dropbox.com/s/bz4j20jqfig04m3/Aula12.pdf?dl=0)   |
 | Assíncrona | Lista de exercícios sobre a Aula 12 | [link](https://www.dropbox.com/s/ofqpzouhasdfbcp/lista_estatisticabasica12.pdf?dl=0) |
-| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://www.dropbox.com/s/pr1nae2f0nz4zyz/Aula12_sincrona.pdf?dl=0) |
+| Síncrona | Atividades síncronas a respeito da Aula 12 | [link](https://www.dropbox.com/s/en799ok3kttl837/Aula12_sincrona_feita2.pdf?dl=0) |
 
 **Obs:** Para a resolução dos exercícios iremos precisar utilizar a tabela da **distribuição normal padronizada** [link](https://www.dropbox.com/s/4r0xa42xl6qe4t3/tabela_normal.pdf?dl=0)
 
@@ -428,3 +428,10 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 - As provas deverão ser feitas segundo as seguintes orientações: [link](https://www.dropbox.com/s/z0ep4bv501tiary/instru%C3%A7%C3%B5es_prova.pdf?dl=0)
 
 - Segue um modelo do arquivo que deverá ser enviado (feito o upload através do SIGAA) com a resolução das questões da prova: [link](https://www.dropbox.com/s/wtrr5a3f6znkof2/Wagner_Tassinari_P1_IC281.pdf?dl=0)
+
+## ATENÇÃO !!!!!!!!!!
+
+- **Prova de segunda chamada:** Quem for fazer a prova de segunda chamada, basta enviar um email até domingo (dia 22/08), e no assunto do email colocar: `r colFmt("PROVA SEGUNDA CHAMADA ",'red')`. No conteúdo do email colocar o nome completo, turma e qual será a prova, ou seja, segunda chamada referente a P1 ou a P2.
+
+- **Prova Optativa:** Quem for fazer a prova optativa, basta enviar um email até o dia 01/09, e no assunto do email colocar: `r colFmt("PROVA OPTATIVA ",'red')`. No conteúdo do email colocar o nome completo e a turma.
+
