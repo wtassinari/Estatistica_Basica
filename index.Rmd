@@ -379,7 +379,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 | Atividades  |       Tipo de Atividade                                      | Links |
 | :---------: | ------------------------------------------------------------ | :---: |
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 1  |  [link](https://www.dropbox.com/s/5zzckqtqzy5ozbt/EstBasica_aula10_video1_2.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://www.dropbox.com/s/nf0qswqhph5jg11/EstBasica_aula10_video2_2.mp4?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 10 - Vídeo 2 |  [link](https://drive.google.com/file/d/1Jk2HpumrpQ-N69soV_qbTDc6H3GfNpGI/view?usp=sharing)  |
 | Assíncrona | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://www.dropbox.com/s/ru54675hrgghj4k/EstBasica_aula10_video3_poisson.mp4?dl=0)  |
 | Assíncrona | Slides sobre a Aula 10 | [link](https://www.dropbox.com/s/dk7p6su9f47i5c5/Aula10.pdf?dl=0)   |
 | Assíncrona | Lista de exercícios sobre a Aula 10 | [link](https://www.dropbox.com/s/pvy3olr3q75zq8l/lista_estatisticabasica10.pdf?dl=0)  |
