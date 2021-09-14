@@ -44,13 +44,13 @@ colFmt <- function(x,color) {
 
 **[Prof. Wagner Tassinari (DEMAT/UFRRJ)](https://institucional.ufrrj.br/ruralpesquisa/wagner-de-souza-tassinari/)**
 
-email: [*wtassinari@gmail.com*](wtassinari@gmail.com)
+email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 
 ```{r echo=F, fig.align="center", message=FALSE, warning=FALSE, comments=NA, out.width="90%", comment=NA}
 knitr::include_graphics('rural.jpg')
 ```
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2020-2 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2021-1 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
@@ -110,19 +110,19 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- P1 – 13/07/2021 
+- P1 – 01/11/2021 
 
 \vspace{0.3mm}
 
-- P2 – 19/08/2021
+- P2 – 13/12/2021
 
 \vspace{0.3mm}
 
-- Segunda Chamada – 24/08/2021
+- Segunda Chamada – 15/12/2021
 
 \vspace{0.3mm}
 
-- Optativa – 26/08/2021
+- Optativa – 20/12/2021
 
 \vspace{0.3mm}
 
@@ -150,7 +150,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ## Bibliografia Sugerida
 
-- [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://www.dropbox.com/s/6vnexi22twf92ox/Apostila_Estatistica_Basica_%26_Int_Bioestatistica.pdf?dl=0)
+- [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://drive.google.com/file/d/1eo4CWWqZzNibXqNK4bfUxZXzqwEgufIl/view?usp=drivesdk)
 
 \vspace{0.3mm}
 
@@ -201,19 +201,19 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 |   Data    |             Descrição             | Aulas |      |   Data    |                    Descrição                     | Aulas |
 | :-------: | :-------------------------------: | :---: | ---- | :-------: | :----------------------------------------------: | :---: |
-| **01/06** |  `r colFmt("Apresentação da  Disciplina*",'blue')`  |   -   |      | **15/07** |  Introdução à Probabilidade  |   8   |
-| **08/06** |         Conceitos Básicos         |   1   |      | **20/07** |  `r colFmt("Introdução à Probabilidade*",'blue')`            |   8   |
-| **10/06** | `r colFmt("Conceitos Básicos*",'blue')`         |   1   |      | **22/07** |               Variáveis Aleatórias               |   9   |
-| **15/06** |        Tabelas e Gráficos         | 2 e 3 |      | **27/07** | `r colFmt("Variáveis Aleatórias*",'blue')`                           |   9   |
-| **17/06** | `r colFmt("Tabelas e Gráficos*",'blue')`         | 2 e 3 |      | **29/07** | Distribuições de Probabilidade para VA discretas |  10   |
-| **22/06** |        Medidas de Posição         |   4   |      | **03/08** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')` |  10   |
-| **24/06** | `r colFmt("Medidas de Posição*",'blue')`         |   4   |      | **05/08** | Distribuições de Probabilidade para VA contínuas |  11   |
-| **29/06** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **10/08** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
-| **01/07** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **12/08** |       Introdução à Inferência Estatística        |  12   |
-| **06/07** |       Análise Bidimensional       |   7   |      | **17/08** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`                      |  12   |
-| **08/07** | `r colFmt("Análise Bidimensional*",'blue')`       |   7   |      | **19/08** |     `r colFmt("P2**",'red')`        |       |
-| **13/07** |  `r colFmt("P1**",'red')`             |       |      | **24/08** |  `r colFmt("Segunda chamada**",'red')`                       |       |
-| **-** |    -    |       |      |  **26/08** |     `r colFmt("Optativa**",'red')`                 |       |
+| **20/09** |  `r colFmt("Apresentação da  Disciplina*",'blue')`  |   -   |      | **03/11** |  Introdução à Probabilidade  |   8   |
+| **22/09** |         Conceitos Básicos         |   1   |      | **08/11** |  `r colFmt("Introdução à Probabilidade*",'blue')`            |   8   |
+| **27/09** | `r colFmt("Conceitos Básicos*",'blue')`         |   1   |      | **10/11** |               Variáveis Aleatórias               |   9   |
+| **29/09** |        Tabelas e Gráficos         | 2 e 3 |      | **17/11** | `r colFmt("Variáveis Aleatórias*",'blue')`                           |   9   |
+| **04/10** | `r colFmt("Tabelas e Gráficos*",'blue')`         | 2 e 3 |      | **22/11** | Distribuições de Probabilidade para VA discretas |  10   |
+| **06/10** |        Medidas de Posição         |   4   |      | **24/11** | `r colFmt("Distribuições de Probabilidade para VA discretas*",'blue')` |  10   |
+| **11/10** | `r colFmt("Medidas de Posição*",'blue')`         |   4   |      | **29/11** | Distribuições de Probabilidade para VA contínuas |  11   |
+| **13/10** | Medidas de Dispersão e Assimetria | 5 e 6 |      | **01/12** | `r colFmt("Distribuições de Probabilidade para VA contínuas*",'blue')` |  11   |
+| **18/10** |`r colFmt("Medidas de Dispersão e Assimetria*",'blue')` | 5 e 6 |      | **06/12** |       Introdução à Inferência Estatística        |  12   |
+| **20/10** |       Análise Bidimensional       |   7   |      | **08/12** |  `r colFmt("Introdução à Inferência Estatística*",'blue')`                      |  12   |
+| **25/10** | `r colFmt("Análise Bidimensional*",'blue')`       |   7   |      | **13/12** |     `r colFmt("P2**",'red')`        |       |
+| **27/10** | `r colFmt("Aula de Dúvidas*",'blue')`       |   7   |      | **15/12** |     `r colFmt("Segunda chamada**",'red')`        |       |
+| **01/11** |  `r colFmt("P1**",'red')`             |       |      | **20/12** |  `r colFmt("Optativa**",'red')`                       |       |
 
 
 ###### `r colFmt("  *As aulas síncronas estão escritas na cor azul marcadas com um asterístico.",'blue')`
@@ -237,12 +237,12 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividades |                Tipo de Atividade                            | Links|
 | :---------: | ---------------------------------------------------------- | :---: |
-| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 1  |  [link](https://www.dropbox.com/s/0s92r4x3ogjvsm5/EstBasica_aula1_video1_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://www.dropbox.com/s/xkmaoybeyimm5gd/EstBasica_aula1_video2_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://www.dropbox.com/s/jce7ywosl4qbc9g/EstBasica_aula1_video3_3.mp4?dl=0)   |
-| Assíncrona | Slides sobre a Aula 1 | [link](https://www.dropbox.com/s/qt7r0td6r2m7wwx/Aula1.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://www.dropbox.com/s/c7w73pd8nq4q53q/lista_estatisticabasica1.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 1 |  [link](https://www.dropbox.com/s/l8jthkgtxo7pcmj/Aula1_sincrona_feita2.pdf?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 1  |  [link](https://drive.google.com/file/d/1e9khuzCrrjK95u0vi64GNrhrn2q_V1qU/view?usp=drivesdk)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://drive.google.com/file/d/1gaEOHuBlWcUTjJ3u3rJILr4K99VY9_m5/view?usp=drivesdk)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://drive.google.com/file/d/1uI6AxGQ2-FKWjvJiNO2J4p9bHaM158hU/view?usp=drivesdk)   |
+| Assíncrona | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/1MEKmWA_G1wXg8FG5bgfC92AhIOs4YWIo/view?usp=drivesdk)   |
+| Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1JY_3_bRzxALrZ5FLSzF0YM0iS72ZKdNJ/view?usp=drivesdk)  |
+| Síncrona | Atividades síncronas a respeito da Aula 1 |  [link](https://drive.google.com/file/d/1tkST4HM6yrM8jecg39xcj-hNoPzTTPbW/view?usp=drivesdk)  |
 
 
 
@@ -429,9 +429,9 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 - Segue um modelo do arquivo que deverá ser enviado (feito o upload através do SIGAA) com a resolução das questões da prova: [link](https://www.dropbox.com/s/wtrr5a3f6znkof2/Wagner_Tassinari_P1_IC281.pdf?dl=0)
 
-## ATENÇÃO !!!!!!!!!!
+<!-- ## ATENÇÃO !!!!!!!!!! -->
 
-- **Prova de segunda chamada:** Quem for fazer a prova de segunda chamada, basta enviar um email até domingo (dia 22/08), e no assunto do email colocar: `r colFmt("PROVA SEGUNDA CHAMADA ",'red')`. No conteúdo do email colocar o nome completo, turma e qual será a prova, ou seja, segunda chamada referente a P1 ou a P2.
+<!-- - **Prova de segunda chamada:** Quem for fazer a prova de segunda chamada, basta enviar um email até domingo (dia 22/08), e no assunto do email colocar: `r colFmt("PROVA SEGUNDA CHAMADA ",'red')`. No conteúdo do email colocar o nome completo, turma e qual será a prova, ou seja, segunda chamada referente a P1 ou a P2. -->
 
-- **Prova Optativa:** Quem for fazer a prova optativa, basta enviar um email até o dia 01/09, e no assunto do email colocar: `r colFmt("PROVA OPTATIVA ",'red')`. No conteúdo do email colocar o nome completo e a turma.
+<!-- - **Prova Optativa:** Quem for fazer a prova optativa, basta enviar um email até o dia 01/09, e no assunto do email colocar: `r colFmt("PROVA OPTATIVA ",'red')`. No conteúdo do email colocar o nome completo e a turma. -->
 
