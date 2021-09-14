@@ -150,7 +150,7 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 ## Bibliografia Sugerida
 
-- [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://www.dropbox.com/s/6vnexi22twf92ox/Apostila_Estatistica_Basica_%26_Int_Bioestatistica.pdf?dl=0)
+- [Diógenes Ferreira Filho. **Apostila de Estatística Básica**, UFRRJ. 2017](https://drive.google.com/file/d/1eo4CWWqZzNibXqNK4bfUxZXzqwEgufIl/view?usp=drivesdk)
 
 \vspace{0.3mm}
 
@@ -237,12 +237,12 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 | Atividades |                Tipo de Atividade                            | Links|
 | :---------: | ---------------------------------------------------------- | :---: |
-| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 1  |  [link](https://www.dropbox.com/s/0s92r4x3ogjvsm5/EstBasica_aula1_video1_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://www.dropbox.com/s/xkmaoybeyimm5gd/EstBasica_aula1_video2_3.mp4?dl=0)  |
-| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://www.dropbox.com/s/jce7ywosl4qbc9g/EstBasica_aula1_video3_3.mp4?dl=0)   |
-| Assíncrona | Slides sobre a Aula 1 | [link](https://www.dropbox.com/s/qt7r0td6r2m7wwx/Aula1.pdf?dl=0)   |
-| Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://www.dropbox.com/s/c7w73pd8nq4q53q/lista_estatisticabasica1.pdf?dl=0)  |
-| Síncrona | Atividades síncronas a respeito da Aula 1 |  [link](https://www.dropbox.com/s/l8jthkgtxo7pcmj/Aula1_sincrona_feita2.pdf?dl=0)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 1  |  [link](https://drive.google.com/file/d/1e9khuzCrrjK95u0vi64GNrhrn2q_V1qU/view?usp=drivesdk)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 2 |  [link](https://drive.google.com/file/d/1gaEOHuBlWcUTjJ3u3rJILr4K99VY9_m5/view?usp=drivesdk)  |
+| Assíncrona | Videoaula sobre a Aula 1 - Vídeo 3 | [link](https://drive.google.com/file/d/1uI6AxGQ2-FKWjvJiNO2J4p9bHaM158hU/view?usp=drivesdk)   |
+| Assíncrona | Slides sobre a Aula 1 | [link](https://drive.google.com/file/d/1MEKmWA_G1wXg8FG5bgfC92AhIOs4YWIo/view?usp=drivesdk)   |
+| Assíncrona | Lista de exercícios sobre a Aula 1 |  [link](https://drive.google.com/file/d/1JY_3_bRzxALrZ5FLSzF0YM0iS72ZKdNJ/view?usp=drivesdk)  |
+| Síncrona | Atividades síncronas a respeito da Aula 1 |  [link](https://drive.google.com/file/d/1tkST4HM6yrM8jecg39xcj-hNoPzTTPbW/view?usp=drivesdk)  |
 
 
 
