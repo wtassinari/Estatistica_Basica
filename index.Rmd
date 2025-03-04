@@ -1,5 +1,6 @@
 ---
-title: "Disciplinas de Estatística Básica e Introdução à Bioestatística"
+title: "Disciplina: Estatística Básica - IC 280"
+subtitle: 
 date: ""
 output:
   rmdformats::readthedown:
@@ -50,7 +51,7 @@ email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 knitr::include_graphics('rural.jpg')
 ```
 
-Esta página representa o repositório do conteúdo das disciplinas de Estatística Básica e Introdução à Bioestatística - 2022-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo da disciplinas de Estatística Básica - 2025-1 (DEMAT/UFRRJ)
 
 # Informações Gerais
 
@@ -112,7 +113,11 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 # Avaliação das Disciplinas
 
-- **P1** – 28/07/2022 
+- Primeira Avaliação - **P1**: 07/05/2025 
+
+\vspace{0.3mm}
+
+- Segunda chamada - **P1**: 14/05/2025 
 
 <!-- \vspace{0.3mm} -->
 
@@ -120,23 +125,23 @@ Esta página representa o repositório do conteúdo das disciplinas de Estatíst
 
 \vspace{0.3mm}
 
-- **P2** – 06/09/2022
+- Segunda Avaliação - **P2**: 23/06/2025
 
 \vspace{0.3mm}
 
-- **Segunda Chamada** – 13/09/2022
+- Segunda chamada - **P2**: 30/06/2025 
 
 \vspace{0.3mm}
 
-- **Optativa** – 20/09/2022
+- Prova **Optativa**: 07/07/2025
 
 \vspace{0.3mm}
 
 - A média final será composta pela nota da primeira e da segunda avaliação.
 
-\vspace{0.3mm}
+<!-- \vspace{0.3mm} -->
 
-**OBS1:** Será aplicada apenas uma prova de segunda chamada (P1 ou P2).
+<!-- **OBS1:** Será aplicada apenas uma prova de segunda chamada (P1 ou P2). -->
 
 \vspace{0.3mm}
 
@@ -330,7 +335,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Exercícios | Lista de exercícios sobre as Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1vx84yIf2eiDlBIsXGnwT1jIUa1wJll40/view?usp=sharing)  |
 | Exercícios | Exercícios de fixação a respeito das Aulas 5 e 6 |  [link](https://drive.google.com/file/d/1qxkXV-uLpdfUcMkt0JSCBOCh921S80Or/view?usp=sharing)  |
 | Script | Script do R a respeito das Aulas síncrona 5 e 6 |  [link](https://drive.google.com/file/d/17Au1vbE37PS0rVJP20XxjTe-rwiFP0WI/view?usp=sharing)  |
-
+| Exercícios | **Lista extra de exercícios** de fixação a respeito das Aulas 1, 2, 3, 4, 5 e  6 |  [link](https://drive.google.com/file/d/1I2QQCXe-uYnEtUu_8ebuNZRRSYe7hwXm/view?usp=share_link)  |
 
 ## **Aula 7:** Análise Bidimensional (ou medidas de associação)
 
@@ -368,8 +373,8 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Videoaula | Videoaula sobre a Aula 8 - Vídeo 3  |  [link](https://drive.google.com/file/d/1VVv5E3BY6VkZc1-9Psa7ORLypqku82B5/view?usp=sharing)  |
 | Videoaula | Videoaula sobre a Aula 8 - Vídeo 4 |  [link](https://drive.google.com/file/d/1aAEgnEChR5ICrZjIouO5InS2ZGHTmP-2/view?usp=sharing)  |
 | Slides | Slides sobre a Aula 8 | [link](https://drive.google.com/file/d/1DAWpQncKLUBxkF1PNvSoZr3wTUbFTQi9/view?usp=sharing)   |
-| Exercícios | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/1pPGcFA2cRRrgoe6aCr4ENyjmCXz7ilqK/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito da Aula 8 | [link](https://drive.google.com/file/d/1x8_3dHpcfvYRoDl_A97OLbWLBDvbRKA0/view?usp=sharing) |
+| Exercícios | Lista de exercícios sobre a Aula 8 | [link](https://drive.google.com/file/d/11xOziWbflgb03HnSS65FiE0fNRDpGMyN/view?usp=sharing)  |
+| Exercícios | Exercícios de fixação a respeito da Aula 8 | [link](https://drive.google.com/file/d/1j3LJEgES5ncZ6dvzL7kEDagSshyh4YVt/view?usp=sharing) |
 
 ## **Aula 9:** Variáveis aleatórias
 
@@ -383,8 +388,8 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | :---------: | ------------------------------------------------------------ | :---: |
 | Videoaula | Videoaula sobre a Aula 9 - Vídeo 1  |  [link](https://drive.google.com/file/d/1YIaLPOf5NBboz1SOurwvr7nbg5q_qNct/view?usp=sharing)  |
 | Videoaula | Videoaula sobre a Aula 9 - Vídeo 2 |  [link](https://drive.google.com/file/d/1OJ9z_15XPp7JbTPY85gpIe0CTKMJu-ft/view?usp=sharing)  |
-| Slides | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1XBjO-chfrTE8RWR9IwFrGbmH4C98MgLM/view?usp=sharing)   |
-| Exercícios | Exercícios de fixação a respeito da Aula 9 | [link](https://drive.google.com/file/d/1xB_p84rJ5FUbwwQnzBnlI8H5_YVnY080/view?usp=sharing)  |
+| Slides | Slides sobre a Aula 9 | [link](https://drive.google.com/file/d/1QiRC_KRIAentsXCDmHG-fHm7DFppx9G5/view?usp=sharing)   |
+| Exercícios | Exercícios de fixação a respeito da Aula 9 | [link](https://drive.google.com/file/d/1incQSO5YdjQcF1d8_jWkftAFotFNEsC-/view?usp=sharing)  |
 
 `r colFmt("**Obs:** Para esta aula não haverá lista de exercícios.",'blue')`
 
@@ -404,7 +409,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Videoaula | Videoaula sobre a Aula 10 - Vídeo 3 |  [link](https://drive.google.com/file/d/1-FegzRhdQgJj_4KF4un7d__uOr6WcCYh/view?usp=sharing)  |
 | Slides | Slides sobre a Aula 10 | [link](https://drive.google.com/file/d/1uH2lB1w0wkFX8YJC1HYpn9Iv5y-3RIIs/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 10 | [link](https://drive.google.com/file/d/1CqGpvhIf0AQIkaVwh8Ao_CFhi_mgRd6H/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito da Aula 10 | [link](https://drive.google.com/file/d/1rLC1pkLXOgoqsQgar_WA6Wpmdfr7FKj1/view?usp=sharing) |
+| Exercícios | Exercícios de fixação a respeito da Aula 10 | [link](https://drive.google.com/file/d/1_w9pC70NYY3nD5zp_uyKpMsEfI5ng-_K/view?usp=sharing) |
 | Script | Script do R a respeito da Aula síncrona 10 |  [link](https://drive.google.com/file/d/1Ogphfd4NUp_swvzR4bD1b3MaLu7kTfec/view?usp=sharing)  |
 
 
@@ -424,7 +429,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Videoaula | Videoaula sobre a Aula 11 - Vídeo 4 |  [link](https://drive.google.com/file/d/1JZ4cHhU63P9KwTt0qOZQdUqNcQyk0o_9/view?usp=sharing)  |
 | Slides | Slides sobre a Aula 11 | [link](https://drive.google.com/file/d/1t8HIqfSiWycyAtGZn-s_-JbyFNNpDIR5/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 11 | [link](https://drive.google.com/file/d/1mU22lJZhQb149iM5t67SXopG2eUv8UNb/view?usp=sharing)  |
-| Exercícios | Exercícios de fixação a respeito da Aula 11 | [link](https://drive.google.com/file/d/1dn1j8l8MLCKO84do0apBmtKd7wPQjfpA/view?usp=sharing) |
+| Exercícios | Exercícios de fixação a respeito da Aula 11 | [link](https://drive.google.com/file/d/1YpH0azmQ5z2-RWVpu7m6BiLcxmyU256C/view?usp=sharing) |
 | Script | Script do R a respeito da Aula síncrona 11 |  [link](https://drive.google.com/file/d/1AghAPAEj_EZA_AZTFudorvXE_z97dGx9/view?usp=sharing)  |
 
 
@@ -444,7 +449,7 @@ inferior ao menor conceito obtido anteriormente, mas esta substituição deve re
 | Videoaula | Videoaula sobre a Aula 12 - Vídeo 2 |  [link](https://drive.google.com/file/d/1tnmvpRlA4emPvsGhsmIEITdKLj8e0iKf/view?usp=sharing)  |
 | Slides | Slides sobre a Aula 12 | [link](https://drive.google.com/file/d/1waFMcrBp4LZeVATVkISRn0c_H8QJwWKZ/view?usp=sharing)   |
 | Exercícios | Lista de exercícios sobre a Aula 12 | [link](https://drive.google.com/file/d/1abvCPMcirvNn-6QLHWbaTHmil_T0dAAW/view?usp=sharing) |
-| Exercícios | Exercícios de fixação a respeito da Aula 12 | [link](https://drive.google.com/file/d/1FKhkaZG7HNx8qGwp9eN7TW8NytI49Ers/view?usp=sharing) |
+| Exercícios | Exercícios de fixação a respeito da Aula 12 | [link](https://drive.google.com/file/d/14o36ltHT2csUvTgvXjMIiJh63dcoZ4XV/view?usp=sharing) |
 | Script | Script do R a respeito da Aula síncrona 12 |  [link](https://drive.google.com/file/d/1KNu1ksBK-W8xGIJoimTXJFSha7aNvwFi/view?usp=sharing)  |
 
 
