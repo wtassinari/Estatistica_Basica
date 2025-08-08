@@ -51,7 +51,7 @@ email: [*tassinari@ufrrj.br*](tassinari@ufrrj.br)
 knitr::include_graphics('rural.jpg')
 ```
 
-Esta página representa o repositório do conteúdo da disciplinas de Estatística Básica - 2025-1 (DEMAT/UFRRJ)
+Esta página representa o repositório do conteúdo da disciplinas de Estatística Básica (DEMAT/UFRRJ)
 
 # Informações Gerais
 
@@ -110,34 +110,33 @@ Esta página representa o repositório do conteúdo da disciplinas de Estatísti
 - Introduão à Inferência Estatística
 
 
+<!-- # Avaliação das Disciplinas -->
 
-# Avaliação das Disciplinas
-
-- Primeira Avaliação - **P1**: 07/05/2025 
-
-\vspace{0.3mm}
-
-- Segunda chamada - **P1**: 14/05/2025 
+<!-- - Primeira Avaliação - **P1**: 07/05/2025  -->
 
 <!-- \vspace{0.3mm} -->
 
-<!-- - **Segunda chamada referente a P1** – 27/07/2022  -->
+<!-- - Segunda chamada - **P1**: 14/05/2025  -->
 
-\vspace{0.3mm}
+<!-- \vspace{0.3mm} --> 
 
-- Segunda Avaliação - **P2**: 23/06/2025
+<!-- **Segunda chamada referente a P1** – 27/07/2022  --> 
 
-\vspace{0.3mm}
+<!-- \vspace{0.3mm} -->
 
-- Segunda chamada - **P2**: 30/06/2025 
+<!-- - Segunda Avaliação - **P2**: 23/06/2025 -->
 
-\vspace{0.3mm}
+<!-- \vspace{0.3mm} -->
 
-- Prova **Optativa**: 07/07/2025
+<!-- - Segunda chamada - **P2**: 30/06/2025  -->
 
-\vspace{0.3mm}
+<!-- \vspace{0.3mm} -->
 
-- A média final será composta pela nota da primeira e da segunda avaliação.
+<!-- - Prova **Optativa**: 07/07/2025 -->
+
+<!-- \vspace{0.3mm} -->
+
+<!-- - A média final será composta pela nota da primeira e da segunda avaliação. -->
 
 <!-- \vspace{0.3mm} -->
 
